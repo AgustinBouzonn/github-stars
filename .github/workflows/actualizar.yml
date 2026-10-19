@@ -1,0 +1,45 @@
+name: Actualizar catálogo
+
+on:
+  schedule:
+    - cron: "17 6 * * 1" # lunes 06:17 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/generar.py
+      - data/categorias.json
+      - .github/workflows/actualizar.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-catalogo
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generar README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generar.py
+
+      - name: Commitear cambios
+        run: |
+          if git diff --quiet -- README.md data/asignaciones.json; then
+            echo "Sin cambios en el catálogo."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data/asignaciones.json
+          git commit -m "chore: actualizar catálogo de estrellas ($(date -u +%Y-%m-%d))"
+          git push
