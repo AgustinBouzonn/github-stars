@@ -1,49 +1,49 @@
-# ⭐ GitHub Stars — Informe Completo v2
+<div align="center">
 
----
+# ⭐ GitHub Stars
 
-## 📌 Información General
+**Catálogo de 756 repositorios destacados, organizados en 21 categorías.**
+
+![Repos](https://img.shields.io/badge/repos-756-7aa2f7?style=flat-square)
+![Categorías](https://img.shields.io/badge/categor%C3%ADas-21-7aa2f7?style=flat-square)
+![Snapshot](https://img.shields.io/badge/snapshot-2026--04--03-565f89?style=flat-square)
+
+</div>
+
+## Qué es
+
+Un índice de los repositorios que marqué con estrella desde mis dos cuentas de GitHub, [AgustinBouzon](https://github.com/AgustinBouzon) y [AgustinBouzonn](https://github.com/AgustinBouzonn). Cada repo está clasificado por temática para encontrar rápido herramientas, librerías y referencias.
+
+> [!NOTE]
+> Es un **snapshot del 2026-04-03**, no se actualiza automáticamente. Las estrellas, descripciones y fechas reflejan ese momento.
+
+## 📌 Resumen
 
 | Campo | Valor |
 |-------|-------|
-| 📅 Generado | 2026-04-03 01:23 UTC |
-| 👤 Cuentas cubiertas | [AgustinBouzon](https://github.com/AgustinBouzon) · [AgustinBouzonn](https://github.com/AgustinBouzonn) |
-| 📦 Total de repositorios | **756** |
-| 🗂️ Total de categorías | **21** |
-| 🏆 Repo más estrellado | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) — ⭐ 485,691 |
-| 🔤 Top 5 lenguajes | **Python** (255) · **TypeScript** (130) · **Unknown** (68) · **JavaScript** (56) · **Go** (42) |
+| 📅 Fecha del snapshot | 2026-04-03 01:23 UTC |
+| 👤 Cuentas | [AgustinBouzon](https://github.com/AgustinBouzon) · [AgustinBouzonn](https://github.com/AgustinBouzonn) |
+| 📦 Repositorios | **756** |
+| 🗂️ Categorías | **21** |
+| 🏆 Más estrellado | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) · ⭐ 485,691 |
+| 🔤 Top 5 lenguajes | **Python** (255) · **TypeScript** (130) · **Sin especificar** (68) · **JavaScript** (56) · **Go** (42) |
 
----
+## 📋 Índice
 
-## 📋 Tabla de Contenidos
+- [🏆 Top 20 por estrellas](#-top-20-repos-por-estrellas)
+- [🆕 Actualizados recientemente](#-actualizados-recientemente)
+- [📊 Estadísticas y lenguajes](#-estadísticas--lenguajes)
+- [📑 Categorías](#-categorías)
 
-1. [🏆 Top 20 Repos por Estrellas](#-top-20-repos-por-estrellas)
-2. [🆕 Actualizados Recientemente](#-actualizados-recientemente)
-3. [🧑‍💻 Proyectos de Agustín](#-proyectos-de-agustín)
-4. [📊 Estadísticas & Lenguajes](#-estadísticas--lenguajes)
-5. [📑 Categorías](#-categorías)
-
-   - [👤 Proyectos Personales (22)](#proyectos-personales)
-   - [🤖 AI / LLM / Agentes (238)](#ai-llm-agentes)
-   - [🔬 Computer Vision & ML Research (19)](#computer-vision-ml-research)
-   - [🎙️ Audio, Voz & TTS/STT (100)](#audio-voz-ttsstt)
-   - [🎭 Avatares, VTubing & Streaming (13)](#avatares-vtubing-streaming)
-   - [🧑‍💻 Dev Tools & Coding Agents (18)](#dev-tools-coding-agents)
-   - [🖥️ Self-hosting & Infraestructura (58)](#self-hosting-infraestructura)
-   - [🗄️ Bases de Datos & Search (14)](#bases-de-datos-search)
-   - [🌐 Web & Frontend (61)](#web-frontend)
-   - [📱 Mobile & Apps (7)](#mobile-apps)
-   - [📹 Video & Media (5)](#video-media)
-   - [🎮 Juegos & Emuladores (24)](#juegos-emuladores)
-   - [🤖 Robótica & Edge AI (23)](#robótica-edge-ai)
-   - [🏠 Home Automation & IoT (3)](#home-automation-iot)
-   - [🔒 Seguridad & Pentesting (35)](#seguridad-pentesting)
-   - [📈 Trading & Finanzas (12)](#trading-finanzas)
-   - [💬 Comunicación & Mensajería (6)](#comunicación-mensajería)
-   - [🗂️ Gestión de Proyectos & ERP (7)](#gestión-de-proyectos-erp)
-   - [📚 Recursos, Libros & Learning (50)](#recursos-libros-learning)
-   - [🛠️ Utilidades & CLI Tools (18)](#utilidades-cli-tools)
-   - [🌍 Misc / Otros (23)](#misc-otros)
+| | | |
+|---|---|---|
+| [👤 Proyectos Personales](#-proyectos-personales) · 22 | [🤖 AI / LLM / Agentes](#-ai--llm--agentes) · 238 | [🔬 Computer Vision & ML Research](#-computer-vision--ml-research) · 19 |
+| [🎙️ Audio, Voz & TTS/STT](#-audio-voz--ttsstt) · 100 | [🎭 Avatares, VTubing & Streaming](#-avatares-vtubing--streaming) · 13 | [🧑‍💻 Dev Tools & Coding Agents](#-dev-tools--coding-agents) · 18 |
+| [🖥️ Self-hosting & Infraestructura](#-self-hosting--infraestructura) · 58 | [🗄️ Bases de Datos & Search](#-bases-de-datos--search) · 14 | [🌐 Web & Frontend](#-web--frontend) · 61 |
+| [📱 Mobile & Apps](#-mobile--apps) · 7 | [📹 Video & Media](#-video--media) · 5 | [🎮 Juegos & Emuladores](#-juegos--emuladores) · 24 |
+| [🤖 Robótica & Edge AI](#-robótica--edge-ai) · 23 | [🏠 Home Automation & IoT](#-home-automation--iot) · 3 | [🔒 Seguridad & Pentesting](#-seguridad--pentesting) · 35 |
+| [📈 Trading & Finanzas](#-trading--finanzas) · 12 | [💬 Comunicación & Mensajería](#-comunicación--mensajería) · 6 | [🗂️ Gestión de Proyectos & ERP](#-gestión-de-proyectos--erp) · 7 |
+| [📚 Recursos, Libros & Learning](#-recursos-libros--learning) · 50 | [🛠️ Utilidades & CLI Tools](#-utilidades--cli-tools) · 18 | [🌍 Misc / Otros](#-misc--otros) · 23 |
 
 ---
 
@@ -51,7 +51,7 @@
 
 Los 20 repositorios con más estrellas de toda la colección.
 
-| # | Repo | Categoría | ⭐ Stars | Descripción |
+| # | Repo | Categoría | ⭐ Estrellas | Descripción |
 |---|------|-----------|---------|-------------|
 | 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 📚 | 485,691 🔥 | Master programming by recreating your favorite technologies from scratch. |
 | 2 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 🌐 | 440,596 🔥 | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci... |
@@ -78,9 +78,9 @@ Los 20 repositorios con más estrellas de toda la colección.
 
 ## 🆕 Actualizados Recientemente
 
-Repositorios actualizados en los últimos 30 días (referencia: 2026-04-01). Total: **88**
+Repositorios con actividad en los 30 días previos al snapshot (referencia: 2026-04-01). Total: **88**
 
-| Repo | Categoría | ⭐ Stars | Días atrás | Descripción |
+| Repo | Categoría | ⭐ Estrellas | Días atrás | Descripción |
 |------|-----------|---------|-----------|-------------|
 | [pydantic/FastUI](https://github.com/pydantic/FastUI) | 🧑‍💻 | 8,958 | 0d | Build better UIs faster. |
 | [noob-hackers/infect](https://github.com/noob-hackers/infect) | 📚 | 2,830 | 0d | Infect Any Android Device With Virus From Link In Termux |
@@ -124,7 +124,7 @@ Repositorios actualizados en los últimos 30 días (referencia: 2026-04-01). Tot
 | [GSA/pdf-filler](https://github.com/GSA/pdf-filler) | 🌐 | 203 | 25d | PDF Filler is a RESTful service (API) to aid in the completion of existing PD... |
 | [alexfrancow/badusb_botnet](https://github.com/alexfrancow/badusb_botnet) | 🔒 | 190 | 21d | :busts_in_silhouette::smiling_imp: Infect a pc with badusb and establish a co... |
 | [thuhcsi/SpeechCraft](https://github.com/thuhcsi/SpeechCraft) | 🤖 | 184 | 6d | The official repository of SpeechCraft dataset, a large-scale expressive bili... |
-| [wass08/wawa-lipsync](https://github.com/wass08/wawa-lipsync) | 🎭 | 161 | 2d |  |
+| [wass08/wawa-lipsync](https://github.com/wass08/wawa-lipsync) | 🎭 | 161 | 2d | — |
 | [joonson/voxconverse](https://github.com/joonson/voxconverse) | 🎙️ | 158 | 23d | Spot the conversation: speaker diarisation in the wild |
 | [unilight/sheet](https://github.com/unilight/sheet) | 🎙️ | 134 | 0d | Speech Human Evaluation Estimation Toolkit (SHEET) |
 | [revdotcom/speech-datasets](https://github.com/revdotcom/speech-datasets) | 🎙️ | 133 | 0d | Various speech datasets made available to the public |
@@ -136,37 +136,6 @@ Repositorios actualizados en los últimos 30 días (referencia: 2026-04-01). Tot
 
 ---
 
-## 🧑‍💻 Proyectos de Agustín
-
-Todos los repositorios de la cuenta personal **[AgustinBouzonn](https://github.com/AgustinBouzonn)**.
-
-| Repo | Lenguaje | ⭐ Stars | Descripción | Topics |
-|------|----------|---------|-------------|--------|
-| [AgustinBouzonn/Awesome-IA](https://github.com/AgustinBouzonn/Awesome-IA) | — | 4 | — | — |
-| [AgustinBouzonn/auditoria-plugin](https://github.com/AgustinBouzonn/auditoria-plugin) | JavaScript | 2 | — | — |
-| [AgustinBouzonn/AgustinBouzonn](https://github.com/AgustinBouzonn/AgustinBouzonn) | — | 1 | — | — |
-| [AgustinBouzonn/Auditor-ia-Prod](https://github.com/AgustinBouzonn/Auditor-ia-Prod) | HTML | 1 | Frontend Flask OLD | — |
-| [AgustinBouzonn/BDD-TP4](https://github.com/AgustinBouzonn/BDD-TP4) | — | 1 | Trabajo practico n°4 BDD  | — |
-| [AgustinBouzonn/Divergencias-Users](https://github.com/AgustinBouzonn/Divergencias-Users) | Python | 1 | — | — |
-| [AgustinBouzonn/ModuloContabilidad](https://github.com/AgustinBouzonn/ModuloContabilidad) | Python | 1 | Zapacrypto | — |
-| [AgustinBouzonn/Pagina-Ldr](https://github.com/AgustinBouzonn/Pagina-Ldr) | HTML | 1 | — | — |
-| [AgustinBouzonn/WHISPER-MOTOR](https://github.com/AgustinBouzonn/WHISPER-MOTOR) | Python | 1 | MOTOR WHISPER API | — |
-| [AgustinBouzonn/auditoria-app-documentation](https://github.com/AgustinBouzonn/auditoria-app-documentation) | — | 1 | Documentación completa con screenshots de todas las funcionalidades de Audito... | — |
-| [AgustinBouzonn/auditoria-scripts](https://github.com/AgustinBouzonn/auditoria-scripts) | Python | 1 | Scripts and utilities for AuditorIA-App database synchronization and management | — |
-| [AgustinBouzonn/auditories-workflow](https://github.com/AgustinBouzonn/auditories-workflow) | Python | 1 | Automatización para procesar audios de Excel y subirlos a AuditorIA | — |
-| [AgustinBouzonn/bthings-saas](https://github.com/AgustinBouzonn/bthings-saas) | TypeScript | 1 | — | — |
-| [AgustinBouzonn/linky](https://github.com/AgustinBouzonn/linky) | TypeScript | 1 | — | — |
-| [AgustinBouzonn/multi-agent-orchestration-research](https://github.com/AgustinBouzonn/multi-agent-orchestration-research) | — | 1 | Investigación completa sobre Frontend Multi-Agent Orchestration Platform | — |
-| [AgustinBouzonn/nextjs-ai-chatbot](https://github.com/AgustinBouzonn/nextjs-ai-chatbot) | TypeScript | 1 | — | — |
-| [AgustinBouzonn/nextjs-chat](https://github.com/AgustinBouzonn/nextjs-chat) | TypeScript | 1 | — | — |
-| [AgustinBouzonn/open-AcordesAI](https://github.com/AgustinBouzonn/open-AcordesAI) | TypeScript | 1 | — | — |
-| [AgustinBouzonn/open-cms-display](https://github.com/AgustinBouzonn/open-cms-display) | TypeScript | 1 | — | — |
-| [AgustinBouzonn/open-moba-term](https://github.com/AgustinBouzonn/open-moba-term) | TypeScript | 1 | — | — |
-| [AgustinBouzonn/pysentimiento-Fast-API-main](https://github.com/AgustinBouzonn/pysentimiento-Fast-API-main) | Python | 1 | OLD | — |
-| [AgustinBouzonn/tekos-config](https://github.com/AgustinBouzonn/tekos-config) | HTML | 1 | Configuración completa de TEKO - asistente de desarrollo personal | — |
-
----
-
 ## 📊 Estadísticas & Lenguajes
 
 ### 🔤 Distribución por Lenguaje (Top 15)
@@ -175,7 +144,7 @@ Todos los repositorios de la cuenta personal **[AgustinBouzonn](https://github.c
 |----------|-------|---|-------|
 | Python | 255 | 33.7% | `██████████░░░░░░░░░░░░░░░░░░░░` |
 | TypeScript | 130 | 17.2% | `█████░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| Unknown | 68 | 9.0% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| Sin especificar | 68 | 9.0% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | JavaScript | 56 | 7.4% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | Go | 42 | 5.6% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | C++ | 40 | 5.3% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
@@ -220,46 +189,50 @@ Todos los repositorios de la cuenta personal **[AgustinBouzonn](https://github.c
 
 ## 📑 Categorías
 
-## 👤 Proyectos Personales
+_Cada categoría lista sus repos ordenados por estrellas._
 
-_Repositorios propios de AgustinBouzonn: proyectos personales, experimentos y trabajos académicos._
+### 👤 Proyectos Personales
 
-**22 repos** · Lenguajes: TypeScript (7) · Python (6) · Unknown (5) · HTML (3) · JavaScript (1)
+_Repositorios propios de AgustinBouzonn marcados con estrella al momento del snapshot: proyectos personales, experimentos y trabajos académicos._
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+**22 repos** · Lenguajes: TypeScript (7) · Python (6) · Sin especificar (5) · HTML (3) · JavaScript (1)
+
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
-| [AgustinBouzonn/Awesome-IA](https://github.com/AgustinBouzonn/Awesome-IA) |  | — | 4 |
-| [AgustinBouzonn/auditoria-plugin](https://github.com/AgustinBouzonn/auditoria-plugin) |  | JavaScript | 2 |
-| [AgustinBouzonn/AgustinBouzonn](https://github.com/AgustinBouzonn/AgustinBouzonn) |  | — | 1 |
+| [AgustinBouzonn/Awesome-IA](https://github.com/AgustinBouzonn/Awesome-IA) | — | — | 4 |
+| [AgustinBouzonn/auditoria-plugin](https://github.com/AgustinBouzonn/auditoria-plugin) | — | JavaScript | 2 |
+| [AgustinBouzonn/AgustinBouzonn](https://github.com/AgustinBouzonn/AgustinBouzonn) | — | — | 1 |
 | [AgustinBouzonn/Auditor-ia-Prod](https://github.com/AgustinBouzonn/Auditor-ia-Prod) | Frontend Flask OLD | HTML | 1 |
 | [AgustinBouzonn/BDD-TP4](https://github.com/AgustinBouzonn/BDD-TP4) | Trabajo practico n°4 BDD  | — | 1 |
-| [AgustinBouzonn/Divergencias-Users](https://github.com/AgustinBouzonn/Divergencias-Users) |  | Python | 1 |
+| [AgustinBouzonn/Divergencias-Users](https://github.com/AgustinBouzonn/Divergencias-Users) | — | Python | 1 |
 | [AgustinBouzonn/ModuloContabilidad](https://github.com/AgustinBouzonn/ModuloContabilidad) | Zapacrypto | Python | 1 |
-| [AgustinBouzonn/Pagina-Ldr](https://github.com/AgustinBouzonn/Pagina-Ldr) |  | HTML | 1 |
+| [AgustinBouzonn/Pagina-Ldr](https://github.com/AgustinBouzonn/Pagina-Ldr) | — | HTML | 1 |
 | [AgustinBouzonn/WHISPER-MOTOR](https://github.com/AgustinBouzonn/WHISPER-MOTOR) | MOTOR WHISPER API | Python | 1 |
 | [AgustinBouzonn/auditoria-app-documentation](https://github.com/AgustinBouzonn/auditoria-app-documentation) | Documentación completa con screenshots de todas las funcionalidades de Auditoria.app | — | 1 |
 | [AgustinBouzonn/auditoria-scripts](https://github.com/AgustinBouzonn/auditoria-scripts) | Scripts and utilities for AuditorIA-App database synchronization and management | Python | 1 |
 | [AgustinBouzonn/auditories-workflow](https://github.com/AgustinBouzonn/auditories-workflow) | Automatización para procesar audios de Excel y subirlos a AuditorIA | Python | 1 |
-| [AgustinBouzonn/bthings-saas](https://github.com/AgustinBouzonn/bthings-saas) |  | TypeScript | 1 |
-| [AgustinBouzonn/linky](https://github.com/AgustinBouzonn/linky) |  | TypeScript | 1 |
+| [AgustinBouzonn/bthings-saas](https://github.com/AgustinBouzonn/bthings-saas) | — | TypeScript | 1 |
+| [AgustinBouzonn/linky](https://github.com/AgustinBouzonn/linky) | — | TypeScript | 1 |
 | [AgustinBouzonn/multi-agent-orchestration-research](https://github.com/AgustinBouzonn/multi-agent-orchestration-research) | Investigación completa sobre Frontend Multi-Agent Orchestration Platform | — | 1 |
-| [AgustinBouzonn/nextjs-ai-chatbot](https://github.com/AgustinBouzonn/nextjs-ai-chatbot) |  | TypeScript | 1 |
-| [AgustinBouzonn/nextjs-chat](https://github.com/AgustinBouzonn/nextjs-chat) |  | TypeScript | 1 |
-| [AgustinBouzonn/open-AcordesAI](https://github.com/AgustinBouzonn/open-AcordesAI) |  | TypeScript | 1 |
-| [AgustinBouzonn/open-cms-display](https://github.com/AgustinBouzonn/open-cms-display) |  | TypeScript | 1 |
-| [AgustinBouzonn/open-moba-term](https://github.com/AgustinBouzonn/open-moba-term) |  | TypeScript | 1 |
+| [AgustinBouzonn/nextjs-ai-chatbot](https://github.com/AgustinBouzonn/nextjs-ai-chatbot) | — | TypeScript | 1 |
+| [AgustinBouzonn/nextjs-chat](https://github.com/AgustinBouzonn/nextjs-chat) | — | TypeScript | 1 |
+| [AgustinBouzonn/open-AcordesAI](https://github.com/AgustinBouzonn/open-AcordesAI) | — | TypeScript | 1 |
+| [AgustinBouzonn/open-cms-display](https://github.com/AgustinBouzonn/open-cms-display) | — | TypeScript | 1 |
+| [AgustinBouzonn/open-moba-term](https://github.com/AgustinBouzonn/open-moba-term) | — | TypeScript | 1 |
 | [AgustinBouzonn/pysentimiento-Fast-API-main](https://github.com/AgustinBouzonn/pysentimiento-Fast-API-main) | OLD | Python | 1 |
 | [AgustinBouzonn/tekos-config](https://github.com/AgustinBouzonn/tekos-config) | Configuración completa de TEKO - asistente de desarrollo personal | HTML | 1 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 🤖 AI / LLM / Agentes
+### 🤖 AI / LLM / Agentes
 
 _Modelos de lenguaje grandes, frameworks de agentes IA, herramientas RAG, interfaces para LLMs locales (Ollama, Open WebUI) y plataformas de orquestación._
 
-**238 repos** · Lenguajes: Python (107) · TypeScript (50) · Unknown (15) · JavaScript (15) · Go (14)
+**238 repos** · Lenguajes: Python (107) · TypeScript (50) · Sin especificar (15) · JavaScript (15) · Go (14)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  | TypeScript | 346,066 🔥 |
 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so ... | Python | 183,066 🔥 |
@@ -359,7 +332,7 @@ _Modelos de lenguaje grandes, frameworks de agentes IA, herramientas RAG, interf
 | [google/adk-python](https://github.com/google/adk-python) | An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexib... | Python | 18,715 🔥 |
 | [comet-ml/opik](https://github.com/comet-ml/opik) | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, au... | Python | 18,612 🔥 |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. | JavaScript | 18,460 🔥 |
-| [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) |  | Python | 18,322 🔥 |
+| [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | — | Python | 18,322 🔥 |
 | [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) | run agents that work for you in the background based on what you do | Rust | 17,967 🔥 |
 | [huggingface/trl](https://github.com/huggingface/trl) | Train transformer language models with reinforcement learning. | Python | 17,891 🔥 |
 | [allenai/olmocr](https://github.com/allenai/olmocr) | Toolkit for linearizing PDFs for LLM datasets/training | Python | 17,099 🔥 |
@@ -452,7 +425,7 @@ _Modelos de lenguaje grandes, frameworks de agentes IA, herramientas RAG, interf
 | [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) | MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams vi... | JavaScript | 1,609 |
 | [time-series-foundation-models/lag-llama](https://github.com/time-series-foundation-models/lag-llama) | Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting | Python | 1,565 |
 | [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer) | Online playground for OpenAPI tokenizers | TypeScript | 1,547 |
-| [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) |  | Go | 1,495 |
+| [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | — | Go | 1,495 |
 | [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) | CADAM is the open source text-to-CAD web application | TypeScript | 1,462 |
 | [danielcardeenas/sulla](https://github.com/danielcardeenas/sulla) | 👩🏻‍🔬 Javascript Whatsapp api library for chatbots | JavaScript | 1,302 |
 | [elevenlabs/elevenlabs-mcp](https://github.com/elevenlabs/elevenlabs-mcp) | The official ElevenLabs MCP server | Python | 1,290 |
@@ -464,7 +437,7 @@ _Modelos de lenguaje grandes, frameworks de agentes IA, herramientas RAG, interf
 | [daggerhashimoto/openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) | Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-ag... | TypeScript | 625 |
 | [reriiasu/speech-to-text](https://github.com/reriiasu/speech-to-text) | Real-time transcription using faster-whisper | HTML | 614 |
 | [EvolutionAPI/evo-ai](https://github.com/EvolutionAPI/evo-ai) | Evo AI is an open-source platform for creating and managing AI agents, enabling integration with different AI models ... | TypeScript | 569 |
-| [openai/openai-realtime-twilio-demo](https://github.com/openai/openai-realtime-twilio-demo) |  | TypeScript | 514 |
+| [openai/openai-realtime-twilio-demo](https://github.com/openai/openai-realtime-twilio-demo) | — | TypeScript | 514 |
 | [NVIDIA/nvshmem](https://github.com/NVIDIA/nvshmem) | NVIDIA NVSHMEM is a parallel programming interface for NVIDIA GPUs based on OpenSHMEM. NVSHMEM can significantly redu... | C++ | 497 |
 | [twilio-labs/call-gpt](https://github.com/twilio-labs/call-gpt) | Generative AI phone call toolkit using Twilio Media Streams. | JavaScript | 486 |
 | [SqueezeAILab/TinyAgent](https://github.com/SqueezeAILab/TinyAgent) | [EMNLP 2024 Demo] TinyAgent: Function Calling at the Edge! | Python | 479 |
@@ -481,7 +454,7 @@ _Modelos de lenguaje grandes, frameworks de agentes IA, herramientas RAG, interf
 | [rudymohammadbali/Whisper-Transcriber](https://github.com/rudymohammadbali/Whisper-Transcriber) | Modern Desktop Application offering a suite of tools for audio/video text recognition and a variety of other useful u... | Python | 58 |
 | [machinelearnear/milei-gpt](https://github.com/machinelearnear/milei-gpt) | Presidential bot built on top of Llama3-8B fine-tune over +100 hours of video interviews | Jupyter Notebook | 54 |
 | [NidumAI-Inc/agent-studio](https://github.com/NidumAI-Inc/agent-studio) | Agent Studio is an AI agent application designed to handle real-time interactions through phone calls, web-based voic... | Python | 48 |
-| [jacoblee93/corrective-local-rag-qwen](https://github.com/jacoblee93/corrective-local-rag-qwen) |  | Python | 45 |
+| [jacoblee93/corrective-local-rag-qwen](https://github.com/jacoblee93/corrective-local-rag-qwen) | — | Python | 45 |
 | [pysentimiento/robertuito](https://github.com/pysentimiento/robertuito) | A pre-trained language model for social media text in Spanish | Jupyter Notebook | 35 |
 | [retomeier/MoMoA-Researcher](https://github.com/retomeier/MoMoA-Researcher) | Coordinate multiple AI agents to iteratively investigate complex research questions by proposing hypotheses, executin... | TypeScript | 27 |
 | [AllAboutAI-YT/e-labs_agent](https://github.com/AllAboutAI-YT/e-labs_agent) | eleven labs agent | JavaScript | 26 |
@@ -500,15 +473,17 @@ _Modelos de lenguaje grandes, frameworks de agentes IA, herramientas RAG, interf
 | [theFeated/transcription-app](https://github.com/theFeated/transcription-app) | A full-stack audio transcription platform using FastAPI, Whisper/Gemini, and Laravel + React with job queueing, wavef... | Blade | 1 |
 | [thorwebdev/gemini-live-magic-mirror](https://github.com/thorwebdev/gemini-live-magic-mirror) | A react-based starter app for using the Live API over websockets with Gemini | — | 1 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 🔬 Computer Vision & ML Research
+### 🔬 Computer Vision & ML Research
 
 _Visión computacional, detección de objetos, modelos de difusión para imágenes, NeRF, Gaussian Splatting, reconocimiento facial y datasets._
 
 **19 repos** · Lenguajes: C++ (6) · Python (5) · Jupyter Notebook (2) · TypeScript (2) · Kotlin (1)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | Python | 107,611 🔥 |
 | [opencv/opencv](https://github.com/opencv/opencv) | Open Source Computer Vision Library | C++ | 86,887 🔥 |
@@ -526,19 +501,21 @@ _Visión computacional, detección de objetos, modelos de difusión para imágen
 | [openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks) | 📚 Jupyter notebook tutorials for OpenVINO™ | Jupyter Notebook | 3,084 |
 | [MrNeRF/LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio) | Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application. | C++ | 2,751 |
 | [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) | LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on e... | C++ | 2,032 |
-| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) |  | C++ | 1,033 |
+| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | — | C++ | 1,033 |
 | [supervisely/supervisely](https://github.com/supervisely/supervisely) | Supervisely SDK for Python - convenient way to automate, customize and extend Supervisely Platform for your computer ... | Python | 523 |
 | [xenova/OnnxSlim](https://github.com/xenova/OnnxSlim) | A Toolkit to Help Optimize Large Onnx Model | — | 6 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 🎙️ Audio, Voz & TTS/STT
+### 🎙️ Audio, Voz & TTS/STT
 
 _Síntesis de voz (TTS), reconocimiento de voz (ASR/STT), clonación de voz, modelos de audio como Whisper, Bark, XTTS, F5-TTS y generación musical._
 
-**100 repos** · Lenguajes: Python (49) · Jupyter Notebook (12) · TypeScript (7) · Unknown (7) · C++ (6)
+**100 repos** · Lenguajes: Python (49) · Jupyter Notebook (12) · TypeScript (7) · Sin especificar (7) · C++ (6)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) | Python | 56,325 🔥 |
 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | Python | 35,230 🔥 |
@@ -549,7 +526,7 @@ _Síntesis de voz (TTS), reconocimiento de voz (ASR/STT), clonación de voz, mod
 | [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Generate audiobooks from e-books, voice cloning & 1158+ languages! | Python | 18,601 🔥 |
 | [modelscope/FunASR](https://github.com/modelscope/FunASR) | A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recogni... | Python | 15,520 🔥 |
 | [SesameAILabs/csm](https://github.com/SesameAILabs/csm) | A Conversational Speech Generation Model | Python | 14,568 🔥 |
-| [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) |  | Jupyter Notebook | 12,311 🔥 |
+| [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | — | Jupyter Notebook | 12,311 🔥 |
 | [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) | Foundational Models for State-of-the-Art Speech and Text Translation | Jupyter Notebook | 11,773 🔥 |
 | [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Ka... | C++ | 11,279 🔥 |
 | [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) |  Open-source framework for conversational voice AI agents | Python | 10,388 🔥 |
@@ -600,7 +577,7 @@ _Síntesis de voz (TTS), reconocimiento de voz (ASR/STT), clonación de voz, mod
 | [revdotcom/speech-datasets](https://github.com/revdotcom/speech-datasets) | Various speech datasets made available to the public | Jupyter Notebook | 133 |
 | [x4nth055/gender-recognition-by-voice](https://github.com/x4nth055/gender-recognition-by-voice) | Building a Deep learning model that predicts the gender of a speaker using TensorFlow 2 | Python | 129 |
 | [i-celeste-aurora/m-ailabs-dataset](https://github.com/i-celeste-aurora/m-ailabs-dataset) | This is the M-AILABS Speech Dataset | — | 109 |
-| [asterisk/asterisk-external-media](https://github.com/asterisk/asterisk-external-media) |  | JavaScript | 91 |
+| [asterisk/asterisk-external-media](https://github.com/asterisk/asterisk-external-media) | — | JavaScript | 91 |
 | [Nyralei/whisperx-api-server](https://github.com/Nyralei/whisperx-api-server) | FastAPI server for WhisperX transcription library | Python | 65 |
 | [k-farruh/speech-accent-detection](https://github.com/k-farruh/speech-accent-detection) | The human speaks a language with an accent. A particular accent necessarily reflects a person's linguistic background... | Python | 65 |
 | [3choff/FastWhisperAPI](https://github.com/3choff/FastWhisperAPI) | API designed to transcribe audio files leveraging the Faster Whisper library and FastAPI framework. | Python | 62 |
@@ -628,7 +605,7 @@ _Síntesis de voz (TTS), reconocimiento de voz (ASR/STT), clonación de voz, mod
 | [jiggo089/asterisk_ai_call_centre](https://github.com/jiggo089/asterisk_ai_call_centre) | Asterisk AI Call Centre | Python | 4 |
 | [junoai-org/sombra](https://github.com/junoai-org/sombra) | Project Sombra: Harnessing the power of PulseAudio and Whisperx, we transcribe any audio source in near real-time, us... | Python | 4 |
 | [miconda/nodailio](https://github.com/miconda/nodailio) | Ultimate ML AI SIP Server In NODE.js | JavaScript | 4 |
-| [nexmo-se/elevenlabs-agent-ws-connector](https://github.com/nexmo-se/elevenlabs-agent-ws-connector) |  | JavaScript | 4 |
+| [nexmo-se/elevenlabs-agent-ws-connector](https://github.com/nexmo-se/elevenlabs-agent-ws-connector) | — | JavaScript | 4 |
 | [xenova/Orpheus-TTS](https://github.com/xenova/Orpheus-TTS) | TTS Towards Human-Sounding Speech | Python | 4 |
 | [MatthewL02/voicebot](https://github.com/MatthewL02/voicebot) | A library for a Python-based VoIP AI system, to be integrated with an Asterisk PBX server, allowing for pretty good v... | Jupyter Notebook | 3 |
 | [adammabrouk/adam-3d-assistant](https://github.com/adammabrouk/adam-3d-assistant) | 🧪 Homelab with k3s, 3D avatar (Three.js), OpenVoice OS ( Pending ), Whisper, Ollama & Solr on Kubernetes | JavaScript | 3 |
@@ -641,15 +618,17 @@ _Síntesis de voz (TTS), reconocimiento de voz (ASR/STT), clonación de voz, mod
 | [ZhaoChaoqun/sherpa-onnx](https://github.com/ZhaoChaoqun/sherpa-onnx) | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Ka... | — | 1 |
 | [ramja/praatMS](https://github.com/ramja/praatMS) | Tools for prosodic analisis of audio conversations using Praat | R | 1 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 🎭 Avatares, VTubing & Streaming
+### 🎭 Avatares, VTubing & Streaming
 
 _Avatares digitales, talking heads, lip-sync, deepfakes faciales, herramientas para VTubers y producción en vivo._
 
 **13 repos** · Lenguajes: Python (7) · TypeScript (4) · JavaScript (1) · Jupyter Notebook (1)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | Python | 55,104 🔥 |
 | [alievk/avatarify-python](https://github.com/alievk/avatarify-python) | Avatars for Zoom, Skype and other video-conferencing apps. | Python | 16,537 🔥 |
@@ -660,20 +639,22 @@ _Avatares digitales, talking heads, lip-sync, deepfakes faciales, herramientas p
 | [warmshao/FasterLivePortrait](https://github.com/warmshao/FasterLivePortrait) | Bring portraits to life in Real Time！onnx/tensorrt support！实时肖像驱动！ | Python | 1,083 |
 | [antgroup/ditto-talkinghead](https://github.com/antgroup/ditto-talkinghead) | [ACM MM 2025] Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis | Python | 740 |
 | [lo-th/Avatar.lab](https://github.com/lo-th/Avatar.lab) | Human avatar and animation for three.js | JavaScript | 196 |
-| [wass08/wawa-lipsync](https://github.com/wass08/wawa-lipsync) |  | TypeScript | 161 |
+| [wass08/wawa-lipsync](https://github.com/wass08/wawa-lipsync) | — | TypeScript | 161 |
 | [agmmnn/interactive-avatar-playground](https://github.com/agmmnn/interactive-avatar-playground) | Next.js starter for HeyGen Interactive Streaming Avatar service with various features. | TypeScript | 45 |
 | [PrashantDixit0/AI-Avatar-RealTime](https://github.com/PrashantDixit0/AI-Avatar-RealTime) | Talking AI Avatar in Realtime | Jupyter Notebook | 24 |
 | [OpenMind/OM1-avatar](https://github.com/OpenMind/OM1-avatar) | Face display module for OM1, providing animated eyes and visual feedback | TypeScript | 10 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 🧑‍💻 Dev Tools & Coding Agents
+### 🧑‍💻 Dev Tools & Coding Agents
 
 _Herramientas para desarrolladores: frameworks web, extensiones IDE, CLI tools, frameworks de testing, scaffolding y servidores MCP._
 
 **18 repos** · Lenguajes: Python (7) · C# (3) · Go (2) · JavaScript (2) · PowerShell (1)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | Python | 96,782 🔥 |
 | [localstack/localstack](https://github.com/localstack/localstack) | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline | Python | 64,836 🔥 |
@@ -694,15 +675,17 @@ _Herramientas para desarrolladores: frameworks web, extensiones IDE, CLI tools, 
 | [bert2/DtmfDetection](https://github.com/bert2/DtmfDetection) | C# implementation of the Goertzel algorithm for DTMF tone (a.k.a. Touch-Tone) detection and localization in audio dat... | C# | 45 |
 | [punkpeye/unbundle_openapi_mcp](https://github.com/punkpeye/unbundle_openapi_mcp) | MCP to unbundle Large OpenAPI Spec | — | 2 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 🖥️ Self-hosting & Infraestructura
+### 🖥️ Self-hosting & Infraestructura
 
 _Plataformas de auto-hospedaje, Docker, Kubernetes, DevOps, backends as a service, monitoreo y paneles de administración._
 
 **58 repos** · Lenguajes: TypeScript (16) · Go (15) · Python (10) · PHP (3) · Shell (3)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | Rust | 110,450 🔥 |
 | [supabase/supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI... | TypeScript | 100,108 🔥 |
@@ -763,15 +746,17 @@ _Plataformas de auto-hospedaje, Docker, Kubernetes, DevOps, backends as a servic
 | [gokulkrishh/expense.fyi](https://github.com/gokulkrishh/expense.fyi) | Effortlessly track and manage expenses on-the-go with categorisation and logging. | TypeScript | 757 |
 | [soloranger/zabbix-internet-Speedtest-Template](https://github.com/soloranger/zabbix-internet-Speedtest-Template) | Monitor Your internet Speed Test with Zabbix and Grafana Dashboard | Shell | 4 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 🗄️ Bases de Datos & Search
+### 🗄️ Bases de Datos & Search
 
 _Bases de datos relacionales y NoSQL, bases de datos vectoriales, motores de búsqueda y ORMs._
 
 **14 repos** · Lenguajes: Python (5) · TypeScript (3) · Rust (1) · Clojure (1) · C (1)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | Rust | 56,920 🔥 |
 | [metabase/metabase](https://github.com/metabase/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_... | Clojure | 46,725 🔥 |
@@ -788,15 +773,17 @@ _Bases de datos relacionales y NoSQL, bases de datos vectoriales, motores de bú
 | [leifermendez/esquele](https://github.com/leifermendez/esquele) | Habla con tus datos alojados, POSTGRESQL \| MYSQL | — | 3 |
 | [moritzschramm/csv2sql-go](https://github.com/moritzschramm/csv2sql-go) | Insert CSV records into MySQL table concurrently | Go | 2 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 🌐 Web & Frontend
+### 🌐 Web & Frontend
 
 _Frameworks web, librerías UI, extensiones de navegador, scrapers web y aplicaciones de escritorio multiplataforma._
 
 **61 repos** · Lenguajes: TypeScript (27) · JavaScript (18) · Rust (5) · HTML (3) · C++ (2)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | TypeScript | 440,596 🔥 |
 | [electron/electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | C++ | 120,725 🔥 |
@@ -834,14 +821,14 @@ _Frameworks web, librerías UI, extensiones de navegador, scrapers web y aplicac
 | [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) | No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excus... | JavaScript | 6,281 |
 | [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) | Convert PDF to HTML without losing text or format. | HTML | 5,453 |
 | [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) | 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers an... | JavaScript | 4,365 |
-| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) |  | TypeScript | 3,743 |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | — | TypeScript | 3,743 |
 | [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) | Ground Station is all-in-one satellite monitoring suite | JavaScript | 3,558 |
 | [likec4/likec4](https://github.com/likec4/likec4) | Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code | TypeScript | 2,972 |
 | [franken-ui/ui](https://github.com/franken-ui/ui) | Franken UI is an HTML-first UI component library built on UIkit 3 and extended with LitElement, inspired by shadcn/ui. | TypeScript | 2,555 |
 | [puemos/hls-downloader](https://github.com/puemos/hls-downloader) | Web Extension for sniffing and downloading HTTP Live streams (HLS) | TypeScript | 2,527 |
 | [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) | Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 | TypeScript | 1,931 |
 | [suitenumerique/meet](https://github.com/suitenumerique/meet) | Open source video conferencing app powered by LiveKit. Built with Django and React. | Python | 1,912 |
-| [NVIDIA-RTX/NVRHI](https://github.com/NVIDIA-RTX/NVRHI) |  | C++ | 1,872 |
+| [NVIDIA-RTX/NVRHI](https://github.com/NVIDIA-RTX/NVRHI) | — | C++ | 1,872 |
 | [livekit-examples/meet](https://github.com/livekit-examples/meet) | Open source video conferencing app built on LiveKit Components, LiveKit Cloud, and Next.js. | TypeScript | 824 |
 | [marioparaschiv/nitro-sniper](https://github.com/marioparaschiv/nitro-sniper) | 🔫 A lightweight, fast and efficient discord nitro sniper, giveaway sniper & invite sniper.  | JavaScript | 802 |
 | [h9zdev/GeoSentinel](https://github.com/h9zdev/GeoSentinel) | **GeoSentinel** is a geospatial monitoring platform that tracks global movement in real time.  It aggregates ship and... | HTML | 763 |
@@ -849,26 +836,28 @@ _Frameworks web, librerías UI, extensiones de navegador, scrapers web y aplicac
 | [livekit/components-js](https://github.com/livekit/components-js) | Official open source React components and examples for building with LiveKit. | TypeScript | 412 |
 | [adamalston/v2](https://github.com/adamalston/v2) | :test_tube: Personal website built using React! | TypeScript | 206 |
 | [GSA/pdf-filler](https://github.com/GSA/pdf-filler) | PDF Filler is a RESTful service (API) to aid in the completion of existing PDF-based forms and empowers web developer... | JavaScript | 203 |
-| [go-skynet/LocalAI-frontend](https://github.com/go-skynet/LocalAI-frontend) |  | JavaScript | 113 |
+| [go-skynet/LocalAI-frontend](https://github.com/go-skynet/LocalAI-frontend) | — | JavaScript | 113 |
 | [sidx8/Chatbot-flow-builder](https://github.com/sidx8/Chatbot-flow-builder) | This project is a simple node based React application built with React Flow and next.js . | JavaScript | 78 |
 | [alejandrozf/ominicontacto](https://github.com/alejandrozf/ominicontacto) | The Open Source Contact Center Solution (mirror of https://gitlab.com/omnileads/ominicontacto) | JavaScript | 60 |
 | [retomeier/MoMoA](https://github.com/retomeier/MoMoA) | Mixture of Mixture of Agents: Can a swarm of squabbling specialists outsmart a bigger brain? | TypeScript | 53 |
 | [Shivanshmundra/Audio-based-Emotion-Detection](https://github.com/Shivanshmundra/Audio-based-Emotion-Detection) | Sentiment Analysis using audio of a person to predict mood in real time deployed in Jupyter Web App | Jupyter Notebook | 24 |
 | [Lissy93/realtime-speech-analytics](https://github.com/Lissy93/realtime-speech-analytics) | 🗣️  Real-time visual analytics and entity extraction of live speech | JavaScript | 22 |
 | [amulchapla/CallCenterIntelligenceAzureAI](https://github.com/amulchapla/CallCenterIntelligenceAzureAI) | Call Center Intelligence powered by Azure AI | JavaScript | 16 |
-| [LinkSolution-Desarrollo/AuditorIA-deprecated](https://github.com/LinkSolution-Desarrollo/AuditorIA-deprecated) |  | TypeScript | 1 |
-| [facusturla/mapa-geopolitico-3d](https://github.com/facusturla/mapa-geopolitico-3d) |  | HTML | 1 |
-| [neronnnn/links-crud-web](https://github.com/neronnnn/links-crud-web) |  | JavaScript | 1 |
+| [LinkSolution-Desarrollo/AuditorIA-deprecated](https://github.com/LinkSolution-Desarrollo/AuditorIA-deprecated) | — | TypeScript | 1 |
+| [facusturla/mapa-geopolitico-3d](https://github.com/facusturla/mapa-geopolitico-3d) | — | HTML | 1 |
+| [neronnnn/links-crud-web](https://github.com/neronnnn/links-crud-web) | — | JavaScript | 1 |
+
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
 
 ---
 
-## 📱 Mobile & Apps
+### 📱 Mobile & Apps
 
 _Aplicaciones Android e iOS, Flutter, React Native, herramientas de control remoto y gestión de fotos._
 
 **7 repos** · Lenguajes: Kotlin (2) · C (1) · Go (1) · Python (1) · Rust (1)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | C | 137,928 🔥 |
 | [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) | A simple zero-config tool to make locally trusted development certificates with any names you'd like. | Go | 58,411 🔥 |
@@ -878,15 +867,17 @@ _Aplicaciones Android e iOS, Flutter, React Native, herramientas de control remo
 | [mouredev/Weekly-Challenge-2022-Kotlin](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin) | Ejercicios de código semanales en 2022 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de progra... | Kotlin | 2,143 |
 | [hahouari/inno_bundle](https://github.com/hahouari/inno_bundle) | CLI tool for automating Windows installer creation using Inno Setup. | Dart | 16 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 📹 Video & Media
+### 📹 Video & Media
 
 _Descargadores de video, editores, servidores de media y herramientas de procesamiento de video._
 
 **5 repos** · Lenguajes: Python (3) · Go (1) · C# (1)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [livekit/livekit](https://github.com/livekit/livekit) | End-to-end realtime stack for connecting humans and AI | Go | 17,948 🔥 |
 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Create Reddit Videos with just✨ one command ✨ | Python | 8,360 |
@@ -894,15 +885,17 @@ _Descargadores de video, editores, servidores de media y herramientas de procesa
 | [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) | Copy playlists and liked music from Spotify to YTMusic | Python | 4,525 |
 | [Franiac/TwitchLeecher](https://github.com/Franiac/TwitchLeecher) | Twitch Leecher - The Broadcast Downloader | C# | 2,807 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 🎮 Juegos & Emuladores
+### 🎮 Juegos & Emuladores
 
 _Emuladores de consolas retro y modernas, motores de juego, mods y herramientas de desarrollo de videojuegos._
 
 **24 repos** · Lenguajes: C++ (8) · Shell (3) · JavaScript (1) · Batchfile (1) · Rust (1)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) | Self-hosted game stream host for Moonlight. | C++ | 35,729 🔥 |
 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ | C++ | 30,647 🔥 |
@@ -921,7 +914,7 @@ _Emuladores de consolas retro y modernas, motores de juego, mods y herramientas 
 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | Original Xbox Emulator for Windows, macOS, and Linux (Active Development) | C | 3,806 |
 | [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. | Zig | 3,405 |
 | [geode-sdk/geode](https://github.com/geode-sdk/geode) | The ultimate Geometry Dash modding framework | C++ | 2,148 |
-| [pelican-dev/panel](https://github.com/pelican-dev/panel) |  | PHP | 1,980 |
+| [pelican-dev/panel](https://github.com/pelican-dev/panel) | — | PHP | 1,980 |
 | [ikergarcia1996/Self-Driving-Car-in-Video-Games](https://github.com/ikergarcia1996/Self-Driving-Car-in-Video-Games) | A deep neural network that learns to drive in video games | Python | 776 |
 | [OpenSourceLAN/gameservers-docker](https://github.com/OpenSourceLAN/gameservers-docker) | A bunch of game servers I use, dockerised | Shell | 544 |
 | [ExtremeXT/ExtremeROM](https://github.com/ExtremeXT/ExtremeROM) | Work-in-progress custom ROM for various Samsung Galaxy devices. | Shell | 534 |
@@ -929,15 +922,17 @@ _Emuladores de consolas retro y modernas, motores de juego, mods y herramientas 
 | [mtolly/onyx](https://github.com/mtolly/onyx) | Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games | Haskell | 256 |
 | [Viir/bots](https://github.com/Viir/bots) | AI playing video games | Elm | 206 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 🤖 Robótica & Edge AI
+### 🤖 Robótica & Edge AI
 
 _Robótica, drones, firmware para microcontroladores (Arduino, ESP32), SLAM, LiDAR y sistemas embebidos._
 
 **23 repos** · Lenguajes: C++ (12) · Python (5) · JavaScript (1) · C (1) · TypeScript (1)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [commaai/openpilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported ... | Python | 60,509 🔥 |
 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | Machine Learning Systems | JavaScript | 23,297 🔥 |
@@ -963,29 +958,33 @@ _Robótica, drones, firmware para microcontroladores (Arduino, ESP32), SLAM, LiD
 | [prunkdump/arduino-variometer](https://github.com/prunkdump/arduino-variometer) | Arduino based variometer with accelerometer, screen, gps and sdcard code | C++ | 94 |
 | [wnew/gps_tracker](https://github.com/wnew/gps_tracker) | Arduino based GPS tracker | Python | 17 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 🏠 Home Automation & IoT
+### 🏠 Home Automation & IoT
 
 _Automatización del hogar, Home Assistant, sensores inteligentes, cámaras NVR, MQTT y protocolos IoT._
 
 **3 repos** · Lenguajes: Python (1) · TypeScript (1) · JavaScript (1)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [home-assistant/core](https://github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | Python | 85,952 🔥 |
 | [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras | TypeScript | 31,208 🔥 |
 | [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) | Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch. | JavaScript | 4,059 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 🔒 Seguridad & Pentesting
+### 🔒 Seguridad & Pentesting
 
 _Herramientas de seguridad ofensiva y defensiva: pentesting, OSINT, CTF, análisis de malware y red teams._
 
 **35 repos** · Lenguajes: Python (14) · Shell (5) · JavaScript (4) · TypeScript (3) · Go (2)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | Python | 77,290 🔥 |
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tra... | TypeScript | 46,074 🔥 |
@@ -1023,15 +1022,17 @@ _Herramientas de seguridad ofensiva y defensiva: pentesting, OSINT, CTF, anális
 | [Euronymou5/FuckYou](https://github.com/Euronymou5/FuckYou) | Herramienta multifunciones. | Python | 38 |
 | [tfogo/enigma-simulator](https://github.com/tfogo/enigma-simulator) | Enigma Machine Simulator for Wehrmacht Enigma I, Kriegsmarine M3 and M4 variants. | JavaScript | 4 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 📈 Trading & Finanzas
+### 📈 Trading & Finanzas
 
 _Bots de trading, backtesting, análisis de mercados financieros, criptomonedas y DeFi._
 
 **12 repos** · Lenguajes: Python (5) · C# (3) · Go (2) · Rust (2)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [base/node](https://github.com/base/node) | Everything required to run your own Base node | Go | 68,643 🔥 |
 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Financial data platform for analysts, quants and AI agents. | Python | 65,139 🔥 |
@@ -1046,15 +1047,17 @@ _Bots de trading, backtesting, análisis de mercados financieros, criptomonedas 
 | [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp) | Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, cr... | C# | 9,540 |
 | [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) | Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.  | C# | 7,484 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 💬 Comunicación & Mensajería
+### 💬 Comunicación & Mensajería
 
 _Bots de Telegram y Discord, clientes de email, frameworks de chatbot y sistemas de notificación._
 
 **6 repos** · Lenguajes: Python (3) · TypeScript (2) · PHP (1)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [wppconnect-team/wppconnect-server](https://github.com/wppconnect-team/wppconnect-server) | Wppconnect Server is a ready-to-use API, just download, install, and start using, simple as that. | TypeScript | 1,026 |
 | [arugaz/whatsapp-bot](https://github.com/arugaz/whatsapp-bot) | Whatsapp Bot Multi Device - Node Js - Internationalization | TypeScript | 706 |
@@ -1063,15 +1066,17 @@ _Bots de Telegram y Discord, clientes de email, frameworks de chatbot y sistemas
 | [marco0antonio0/py-connector-whatsapp-unofficial](https://github.com/marco0antonio0/py-connector-whatsapp-unofficial) | This project is a WhatsApp automation bot developed using Selenium WebDriver. The bot provides various functionalitie... | Python | 5 |
 | [rodrigowbazevedo/apiwha-php-sdk](https://github.com/rodrigowbazevedo/apiwha-php-sdk) | PHP SDK for WhatsApp APIWHA service | PHP | 1 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 🗂️ Gestión de Proyectos & ERP
+### 🗂️ Gestión de Proyectos & ERP
 
 _Gestión de proyectos, CRM, ERP, tableros Kanban y herramientas de seguimiento._
 
 **7 repos** · Lenguajes: Python (3) · TypeScript (2) · PHP (2)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [frappe/erpnext](https://github.com/frappe/erpnext) | Free and Open Source Enterprise Resource Planning (ERP) | Python | 32,629 🔥 |
 | [hcengineering/platform](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) | TypeScript | 25,226 🔥 |
@@ -1081,15 +1086,17 @@ _Gestión de proyectos, CRM, ERP, tableros Kanban y herramientas de seguimiento.
 | [opensourcepos/opensourcepos](https://github.com/opensourcepos/opensourcepos) | Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It use... | PHP | 4,108 |
 | [romannurik/AtQ-Experiment](https://github.com/romannurik/AtQ-Experiment) | A prototype-level platform for on-the-fly team collaboration tools | TypeScript | 11 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 📚 Recursos, Libros & Learning
+### 📚 Recursos, Libros & Learning
 
 _Listas awesome, guías de estudio, roadmaps, recursos de entrevistas y colecciones educativas._
 
-**50 repos** · Lenguajes: Unknown (26) · Python (5) · Shell (4) · TypeScript (3) · HTML (3)
+**50 repos** · Lenguajes: Sin especificar (26) · Python (5) · Shell (4) · TypeScript (3) · HTML (3)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | Markdown | 485,691 🔥 |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 418,520 🔥 |
@@ -1137,20 +1144,22 @@ _Listas awesome, guías de estudio, roadmaps, recursos de entrevistas y coleccio
 | [officialrajdeepsingh/awesome-nextjs](https://github.com/officialrajdeepsingh/awesome-nextjs) | A curated list of awesome Nextjs-based libraries that help build small and large-scale applications with next.js. | HTML | 690 |
 | [dav009/awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp) | Curated list of Linguistic Resources for doing NLP & CL on Spanish | — | 349 |
 | [russelltomkins/Active-Directory](https://github.com/russelltomkins/Active-Directory) | Collection of scripts for Querying and Managing Active Directory and Domain Controllers | PowerShell | 214 |
-| [antonioam82/ejercicios-python](https://github.com/antonioam82/ejercicios-python) |  | Python | 33 |
+| [antonioam82/ejercicios-python](https://github.com/antonioam82/ejercicios-python) | — | Python | 33 |
 | [nistmdm/awesome-telephony](https://github.com/nistmdm/awesome-telephony) | A curated list of internet telephony resources and software | — | 22 |
 | [mvanhorn/awesome-paperclip](https://github.com/mvanhorn/awesome-paperclip) | Collection of the best Paperclip plugins | — | 3 |
 | [punkpeye/awesome-tunneling](https://github.com/punkpeye/awesome-tunneling) | List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting. | — | 1 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 🛠️ Utilidades & CLI Tools
+### 🛠️ Utilidades & CLI Tools
 
 _Utilidades de sistema, optimizadores de Windows, scripts de automatización y herramientas de scraping._
 
 **18 repos** · Lenguajes: Python (6) · C++ (2) · Batchfile (1) · C (1) · Nunjucks (1)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along wit... | Batchfile | 170,663 🔥 |
 | [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. | C | 75,450 🔥 |
@@ -1171,19 +1180,21 @@ _Utilidades de sistema, optimizadores de Windows, scripts de automatización y h
 | [initzerCreations/Tracgram](https://github.com/initzerCreations/Tracgram) | Use Instagram location features to track an account | Python | 231 |
 | [RAWANA-HACKERS/CRYPTO](https://github.com/RAWANA-HACKERS/CRYPTO) | HACK TOOLS | Python | 14 |
 
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
+
 ---
 
-## 🌍 Misc / Otros
+### 🌍 Misc / Otros
 
 _Repositorios misceláneos que no encajan claramente en otras categorías._
 
-**23 repos** · Lenguajes: Python (10) · Unknown (4) · C# (2) · Jupyter Notebook (2) · C (1)
+**23 repos** · Lenguajes: Python (10) · Sin especificar (4) · C# (2) · Jupyter Notebook (2) · C (1)
 
-| Repo | Descripción | Lenguaje | ⭐ Stars |
+| Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [c4tcom/Katana](https://github.com/c4tcom/Katana) | Python Tool that gives you the ability to run Advanced Google Queries (Known as Google Dorks - Google Dorking) | Python | 1,265 |
 | [baffler/Transparent-Twitch-Chat-Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) | Twitch chat on top of windowed games for single monitor streamers | C# | 1,032 |
-| [rallion/depressurizer](https://github.com/rallion/depressurizer) |  | C# | 774 |
+| [rallion/depressurizer](https://github.com/rallion/depressurizer) | — | C# | 774 |
 | [yangdongchao/UniAudio](https://github.com/yangdongchao/UniAudio) | The Open Source Code of UniAudio | Python | 605 |
 | [wavlab-speech/versa](https://github.com/wavlab-speech/versa) | Versatile Evaluation of Speech and Audio | Python | 396 |
 | [intrinsic-dev/aic](https://github.com/intrinsic-dev/aic) | Toolkit for the AI for Industry Challenge | Python | 313 |
@@ -1193,23 +1204,24 @@ _Repositorios misceláneos que no encajan claramente en otras categorías._
 | [avewells/audio-sentiment-analysis-pipeline](https://github.com/avewells/audio-sentiment-analysis-pipeline) | An end-to-end Python pipeline for performing sentiment analysis on audio files of call-center conversations. | Python | 36 |
 | [AllAboutAI-YT/claude-artifact-prompts](https://github.com/AllAboutAI-YT/claude-artifact-prompts) | Claude 3.5 Artifact Prompts | — | 35 |
 | [kodxana/whisperx-worker](https://github.com/kodxana/whisperx-worker) | RunPod Serverless worker for WhisperX | Python | 18 |
-| [vonage-garage-rip/AnsweringMachineDetection](https://github.com/vonage-garage-rip/AnsweringMachineDetection) |  | Jupyter Notebook | 15 |
+| [vonage-garage-rip/AnsweringMachineDetection](https://github.com/vonage-garage-rip/AnsweringMachineDetection) | — | Jupyter Notebook | 15 |
 | [An0nUD4Y/FullBypass](https://github.com/An0nUD4Y/FullBypass) | A tool which bypasses AMSI (AntiMalware Scan Interface) and PowerShell CLM (Constrained Language Mode) and gives you ... | — | 14 |
-| [wass08/chatbot-kit-lite](https://github.com/wass08/chatbot-kit-lite) |  | JavaScript | 13 |
+| [wass08/chatbot-kit-lite](https://github.com/wass08/chatbot-kit-lite) | — | JavaScript | 13 |
 | [Hguimaraes/robustdistiller](https://github.com/Hguimaraes/robustdistiller) | [Research] Code and artifacts for the papers related to RobustDistiller (Robust and Efficient S3RL models) | Python | 10 |
 | [denulemos/hospital-management-java](https://github.com/denulemos/hospital-management-java) | Hotel Magament program made with Java, Java Swing and MySQL | Java | 3 |
 | [LinkSolution-Desarrollo/AuditoriaAuthREST-deprecated](https://github.com/LinkSolution-Desarrollo/AuditoriaAuthREST-deprecated) | API REST. Administracion de usuarios y control de autenticacion. | TypeScript | 1 |
-| [Mamutttt/ZapaCrypto](https://github.com/Mamutttt/ZapaCrypto) |  | Python | 1 |
+| [Mamutttt/ZapaCrypto](https://github.com/Mamutttt/ZapaCrypto) | — | Python | 1 |
 | [cheveguerra/whaticket-community](https://github.com/cheveguerra/whaticket-community) | A very simple Ticket System based on WhatsApp messages, that allow multi-users in same WhatsApp account. | — | 1 |
-| [danteadotose/Audio_a_Texto](https://github.com/danteadotose/Audio_a_Texto) |  | Jupyter Notebook | 1 |
-| [sherlockeye/.github](https://github.com/sherlockeye/.github) |  | — | 1 |
-| [zanellig/bash-configuration](https://github.com/zanellig/bash-configuration) |  | Shell | 1 |
+| [danteadotose/Audio_a_Texto](https://github.com/danteadotose/Audio_a_Texto) | — | Jupyter Notebook | 1 |
+| [sherlockeye/.github](https://github.com/sherlockeye/.github) | — | — | 1 |
+| [zanellig/bash-configuration](https://github.com/zanellig/bash-configuration) | — | Shell | 1 |
+
+<p align="right"><a href="#-índice">↑ Volver al índice</a></p>
 
 ---
 
-## 📝 Notas de Generación
+## 📝 Cómo se generó
 
-- **Generado:** 2026-04-03 01:23 UTC
-- **Script:** `/tmp/categorize_stars_v2.py`
-- **Datos:** `/tmp/stars_all.json` — 756 repos
-- **Cuentas:** [github.com/AgustinBouzon](https://github.com/AgustinBouzon) · [github.com/AgustinBouzonn](https://github.com/AgustinBouzonn)
+- Se exportaron las estrellas de ambas cuentas desde la API de GitHub.
+- Un script clasificó cada repo por temática, usando nombre, descripción, topics y lenguaje.
+- Los datos y el script no forman parte de este repositorio.
