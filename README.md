@@ -22,11 +22,11 @@ Un índice de los repositorios que marqué con estrella desde mis dos cuentas de
 
 | Campo | Valor |
 |-------|-------|
-| 📅 Última actualización | 2026-10-19 19:23 UTC |
+| 📅 Última actualización | 2026-10-19 19:24 UTC |
 | 👤 Cuentas | [AgustinBouzonn](https://github.com/AgustinBouzonn) · [AgustinBouzon](https://github.com/AgustinBouzon) |
 | 📦 Repositorios | **1032** |
 | 🗂️ Categorías | **21** |
-| 🏆 Más estrellado | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) · ⭐ 554,577 |
+| 🏆 Más estrellado | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) · ⭐ 554,578 |
 | 🔤 Top 5 lenguajes | **Python** (358) · **TypeScript** (172) · **Sin especificar** (85) · **JavaScript** (70) · **Go** (68) |
 
 ## 📋 Índice
@@ -54,23 +54,23 @@ Los 20 repositorios con más estrellas de toda la colección.
 
 | # | Repo | Categoría | ⭐ Estrellas | Descripción |
 |---|------|-----------|---------|-------------|
-| 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 📚 | 554,577 🔥 | Master programming by recreating your favorite technologies from scratch. |
-| 2 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 📚 | 521,401 🔥 | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabl... |
+| 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 📚 | 554,578 🔥 | Master programming by recreating your favorite technologies from scratch. |
+| 2 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 📚 | 521,403 🔥 | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabl... |
 | 3 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 📚 | 490,443 🔥 | A collective list of free APIs |
 | 4 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 🌐 | 457,517 🔥 | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci... |
 | 5 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 🤖 | 392,469 🔥 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
 | 6 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 📚 | 369,881 🔥 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
 | 7 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 📚 | 363,078 🔥 | A complete computer science study plan to become a software engineer. |
-| 8 | [morluto/rea](https://github.com/morluto/rea) | 🤖 | 334,927 🔥 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 9 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | 📚 | 328,697 🔥 | The definitive list that answers "I want to do X in Python, which tool should I use?" |
-| 10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 📚 | 328,322 🔥 | A list of Free Software network services and web applications which can be hosted on your own ser... |
-| 11 | [mattpocock/skills](https://github.com/mattpocock/skills) | 🤖 | 297,303 🔥 | Skills for Real Engineers. Straight from my .agents directory. |
-| 12 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 🔒 | 283,927 🔥 | The agent harness performance optimization system. Skills, instincts, memory, security, and resea... |
-| 13 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🤖 | 255,228 🔥 | The agent that grows with you |
-| 14 | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 📚 | 251,409 🔥 | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools an... |
+| 8 | [morluto/rea](https://github.com/morluto/rea) | 🤖 | 334,941 🔥 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 9 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | 📚 | 328,699 🔥 | The definitive list that answers "I want to do X in Python, which tool should I use?" |
+| 10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 📚 | 328,323 🔥 | A list of Free Software network services and web applications which can be hosted on your own ser... |
+| 11 | [mattpocock/skills](https://github.com/mattpocock/skills) | 🤖 | 297,304 🔥 | Skills for Real Engineers. Straight from my .agents directory. |
+| 12 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 🔒 | 283,928 🔥 | The agent harness performance optimization system. Skills, instincts, memory, security, and resea... |
+| 13 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🤖 | 255,229 🔥 | The agent that grows with you |
+| 14 | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 📚 | 251,411 🔥 | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools an... |
 | 15 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 📚 | 225,402 🔥 | All Algorithms implemented in Python |
 | 16 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 🤖 | 221,181 🔥 | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati... |
-| 17 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🤖 | 217,596 🔥 | The open source coding agent. |
+| 17 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🤖 | 217,598 🔥 | The open source coding agent. |
 | 18 | [ossu/computer-science](https://github.com/ossu/computer-science) | 📚 | 210,141 🔥 | 🎓 Path to a free self-taught education in Computer Science! |
 | 19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 🤖 | 208,030 🔥 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with ... |
 | 20 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | 🛠️ | 195,081 🔥 | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activatio... |
@@ -87,14 +87,14 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 🌐 | 457,517 | 0d | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programmi... |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 🤖 | 392,469 | 0d | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 📚 | 369,881 | 0d | Interactive roadmaps, guides and other educational content to help developers... |
-| [morluto/rea](https://github.com/morluto/rea) | 🤖 | 334,927 | 0d | Reverse engineer anything with agents, from app behavior down to native binar... |
-| [vinta/awesome-python](https://github.com/vinta/awesome-python) | 📚 | 328,697 | 0d | The definitive list that answers "I want to do X in Python, which tool should... |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 📚 | 328,322 | 1d | A list of Free Software network services and web applications which can be ho... |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 🤖 | 297,303 | 0d | Skills for Real Engineers. Straight from my .agents directory. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 🔒 | 283,927 | 0d | The agent harness performance optimization system. Skills, instincts, memory,... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🤖 | 255,228 | 0d | The agent that grows with you |
+| [morluto/rea](https://github.com/morluto/rea) | 🤖 | 334,941 | 0d | Reverse engineer anything with agents, from app behavior down to native binar... |
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | 📚 | 328,699 | 0d | The definitive list that answers "I want to do X in Python, which tool should... |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 📚 | 328,323 | 1d | A list of Free Software network services and web applications which can be ho... |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 🤖 | 297,304 | 0d | Skills for Real Engineers. Straight from my .agents directory. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 🔒 | 283,928 | 0d | The agent harness performance optimization system. Skills, instincts, memory,... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🤖 | 255,229 | 0d | The agent that grows with you |
 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 📚 | 225,402 | 2d | All Algorithms implemented in Python |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🤖 | 217,596 | 0d | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🤖 | 217,598 | 0d | The open source coding agent. |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 🤖 | 208,030 | 0d | Fair-code workflow automation platform with native AI capabilities. Combine v... |
 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | 🛠️ | 195,081 | 2d | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and ... |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🤖 | 193,054 | 0d | Supercharge your AI agents with data from the web and beyond. Building the li... |
@@ -102,7 +102,7 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 🤖 | 187,658 | 0d | AutoGPT is the vision of accessible AI for everyone, to use and to build on. ... |
 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 📚 | 183,105 | 21d | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source p... |
 | [anthropics/skills](https://github.com/anthropics/skills) | 🤖 | 182,198 | 10d | Public repository for Agent Skills |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 🤖 | 173,563 | 0d | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the... |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 🤖 | 173,564 | 0d | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the... |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🤖 | 167,917 | 1d | Makes your AI agent think like the laziest senior dev in the room. The best c... |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 🤖 | 167,857 | 0d | 🤗 Transformers: the model-definition framework for state-of-the-art machine l... |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 🤖 | 161,652 | 0d | A complete AI agency at your fingertips - From frontend wizards to Reddit com... |
@@ -120,16 +120,16 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 🔬 | 139,522 | 0d | The most powerful and modular diffusion model GUI, api and backend with a gra... |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | 🤖 | 136,937 | 0d | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as C... |
 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 🌐 | 134,190 | 0d | Virtual whiteboard for sketching hand-drawn like diagrams |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 📹 | 133,117 | 0d | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or k... |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 📹 | 133,118 | 0d | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or k... |
 | [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 📚 | 129,259 | 1d | Coding articles to level up your development skills |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 🖥️ | 126,339 | 3d | An open-source remote desktop application designed for self-hosting, as an al... |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 🖥️ | 126,340 | 3d | An open-source remote desktop application designed for self-hosting, as an al... |
 | [electron/electron](https://github.com/electron/electron) | 🌐 | 123,408 | 0d | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS |
 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 🤖 | 121,644 | 0d | 21 Lessons, Get Started Building with Generative AI |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 🤖 | 118,526 | 1d | Open-source Python library for AI browser agents, plus Browser Use Cloud: ste... |
 | [immich-app/immich](https://github.com/immich-app/immich) | 🖥️ | 116,665 | 0d | High performance self-hosted photo and video management solution. |
 | [earendil-works/pi](https://github.com/earendil-works/pi) | 🤖 | 116,398 | 0d | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🤖 | 113,649 | 0d | 🪨 why use many token when few token do trick. Viral skill + proxy for coding ... |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 🤖 | 112,082 | 2d | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 🤖 | 112,083 | 2d | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | 🌐 | 112,024 | 0d | Build smaller, faster, and more secure desktop and mobile applications with a... |
 | [supabase/supabase](https://github.com/supabase/supabase) | 🖥️ | 111,771 | 0d | The Postgres development platform. Supabase gives you a dedicated Postgres da... |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 🧑‍💻 | 111,539 | 0d | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
@@ -146,8 +146,8 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 🎭 | 97,130 | 9d | real time face swap and one-click video deepfake with only a single image |
 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 🌐 | 96,998 | 0d | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 🤖 | 96,616 | 1d | A collection of MCP servers. |
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 📹 | 95,369 | 25d | The open-source CapCut alternative |
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 🖥️ | 94,549 | 0d | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 📹 | 95,370 | 25d | The open-source CapCut alternative |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 🖥️ | 94,550 | 0d | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 🔒 | 94,494 | 0d | Hunt down social media accounts by username across social networks |
 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 🤖 | 94,148 | 0d | A high-throughput and memory-efficient inference and serving engine for LLMs |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 🖥️ | 92,643 | 0d | A fancy self-hosted monitoring tool |
@@ -164,23 +164,23 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 🤖 | 85,805 | 0d | Turn any idea, plan, or codebase into a beautiful interactive diagram. An age... |
 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 🤖 | 83,975 | 0d | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands... |
 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 🤖 | 83,333 | 0d | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 oper... |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 🤖 | 83,115 | 0d | The design language that makes your AI harness better at design. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 🤖 | 83,116 | 0d | The design language that makes your AI harness better at design. |
 | [netdata/netdata](https://github.com/netdata/netdata) | 🤖 | 81,033 | 0d | The fastest path to AI-powered full stack observability, even for lean teams. |
 | [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | 🌐 | 80,514 | 9d | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) |
 | [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | 🛠️ | 80,182 | 7d | A new bootable USB solution. |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🤖 | 78,462 | 0d | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ fre... |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🤖 | 78,463 | 0d | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ fre... |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 🤖 | 78,270 | 0d | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen... |
 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | 🎭 | 77,783 | 2d | OBS Studio - Free and open source software for live streaming and screen reco... |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🎙️ | 77,216 | 0d | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cl... |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🎙️ | 77,218 | 0d | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cl... |
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 🔬 | 77,071 | 0d | Tesseract Open Source OCR Engine (main repository) |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🤖 | 77,058 | 0d | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordin... |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🤖 | 77,060 | 0d | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordin... |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 🤖 | 76,147 | 2d | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM.... |
 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 📚 | 75,642 | 0d | Open-source AI job search agent and job finder: scan job boards, score each j... |
 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 🤖 | 75,592 | 0d | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) |
 | [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) | 📈 | 74,453 | 0d | Open Data Platform for analysts, quants and AI agents. |
 | [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) | 📚 | 73,899 | 8d | A curated list of awesome C++ (or C) frameworks, libraries, resources, and sh... |
 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🤖 | 72,418 | 0d | Spec-driven development (SDD) for AI coding assistants. |
-| [usestrix/strix](https://github.com/usestrix/strix) | 🤖 | 69,992 | 0d | Open-source AI penetration testing tool to find and fix your app’s vulnerabil... |
+| [usestrix/strix](https://github.com/usestrix/strix) | 🤖 | 69,993 | 0d | Open-source AI penetration testing tool to find and fix your app’s vulnerabil... |
 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 🤖 | 69,906 | 3d | Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude... |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 📹 | 69,876 | 3d | World's first open-source, agentic video production system. 12 production pip... |
 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 📹 | 67,508 | 0d | Write HTML. Render video. Built for agents. |
@@ -188,7 +188,7 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 🤖 | 67,323 | 2d | Stop renting your intelligence. Own it with AnythingLLM. Everything you need ... |
 | [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | 🤖 | 66,900 | 0d | The official gpt4free repository \| various collection of powerful language m... |
 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | 🧑‍💻 | 65,545 | 0d | Warp is an agentic development environment, born out of the terminal. |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🤖 | 64,759 | 0d | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polym... |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🤖 | 64,760 | 0d | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polym... |
 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 📈 | 64,099 | 0d | An AI Hedge Fund Team |
 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🤖 | 63,995 | 27d | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
 | [commaai/openpilot](https://github.com/commaai/openpilot) | 🤖 | 63,947 | 0d | openpilot is an operating system for robotics. Currently, it upgrades the dri... |
@@ -200,7 +200,7 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 🖥️ | 61,495 | 5d | Open Source realtime backend in 1 file |
 | [penpot/penpot](https://github.com/penpot/penpot) | 🌐 | 61,378 | 0d | Penpot: The open-source design platform for Product teams that need scalable ... |
 | [makeplane/plane](https://github.com/makeplane/plane) | 🖥️ | 61,140 | 0d | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a mod... |
-| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 🧑‍💻 | 59,971 | 0d | A simple, lightweight PowerShell script that allows you to remove pre-install... |
+| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 🧑‍💻 | 59,972 | 0d | A simple, lightweight PowerShell script that allows you to remove pre-install... |
 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 🤖 | 59,879 | 0d | Framework for orchestrating role-playing, autonomous AI agents. By fostering ... |
 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 🗄️ | 59,612 | 0d | A lightning-fast search engine API bringing AI-powered hybrid search to your ... |
 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 🗄️ | 58,551 | 0d | The open alternative to Salesforce, designed for AI. |
@@ -213,10 +213,10 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 🤖 | 55,526 | 0d | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analyt... |
 | [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | 🔒 | 55,450 | 10d | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their ... |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 🤖 | 55,441 | 0d | an open source, extensible AI agent that goes beyond code suggestions - insta... |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🧑‍💻 | 55,121 | 27d | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianyth... |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🧑‍💻 | 55,123 | 27d | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianyth... |
 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 🎙️ | 54,881 | 11d | Open-Source Frontier Voice AI |
 | [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) | 🎙️ | 54,490 | 0d | Port of OpenAI's Whisper model in C/C++ |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 🤖 | 53,855 | 0d | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 🤖 | 53,857 | 0d | Chrome DevTools for coding agents |
 | [dockur/windows](https://github.com/dockur/windows) | 🖥️ | 53,654 | 11d | Windows inside a Docker container. |
 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🤖 | 53,221 | 0d | Make humans and AI agents work as one team — open-source and self-hostable. |
 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 🤖 | 53,217 | 0d | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categor... |
@@ -251,7 +251,7 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | 🛠️ | 40,894 | 1d | Source for remoteintech.company — a community-maintained directory of remote-... |
 | [schollz/croc](https://github.com/schollz/croc) | 🛠️ | 40,661 | 0d | Easily and securely send things from one computer to another :crocodile: :pac... |
 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 🌐 | 40,587 | 0d | Project NOMAD is an offline-first knowledge and education server. Wikipedia, ... |
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 🌐 | 40,383 | 0d | An Open Source implementation of Notebook LM with more flexibility and features |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 🌐 | 40,384 | 0d | An Open Source implementation of Notebook LM with more flexibility and features |
 | [frappe/erpnext](https://github.com/frappe/erpnext) | 🗂️ | 40,364 | 0d | Free and Open Source Enterprise Resource Planning (ERP) |
 | [PostHog/posthog](https://github.com/PostHog/posthog) | 🗄️ | 40,346 | 0d | :hedgehog: PostHog is the leading platform for building self-driving products... |
 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 🌐 | 39,931 | 2d | Create stunning demos for free. Open-source, no subscriptions, no watermarks,... |
@@ -290,7 +290,7 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [google-research/timesfm](https://github.com/google-research/timesfm) | 🤖 | 34,626 | 19d | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation... |
 | [cjpais/Handy](https://github.com/cjpais/Handy) | 🎙️ | 34,150 | 0d | A free, open source, and extensible speech-to-text application that works com... |
 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | 🎮 | 33,775 | 0d | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
-| [storytold/artcraft](https://github.com/storytold/artcraft) | 🤖 | 33,584 | 0d | ArtCraft is an intentional crafting engine for artists, designers, and filmma... |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | 🤖 | 33,586 | 0d | ArtCraft is an intentional crafting engine for artists, designers, and filmma... |
 | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 🤖 | 33,293 | 5d | SOTA Open Source TTS |
 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 📈 | 32,756 | 6d | FinceptTerminal is a modern finance application offering advanced market anal... |
 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 🤖 | 32,591 | 0d | Open Source AI Platform - AI Chat with advanced features that works with ever... |
@@ -298,15 +298,15 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [getzep/graphiti](https://github.com/getzep/graphiti) | 🤖 | 32,044 | 0d | Build Real-Time Knowledge Graphs for AI Agents |
 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 🤖 | 31,689 | 12d | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Shee... |
 | [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) | 🤖 | 31,672 | 1d | Community plugin to control Blender 3D with any LLM of your choice. Not affil... |
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🤖 | 31,306 | 2d | Fully autonomous AI Agents system capable of performing complex penetration t... |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🤖 | 31,307 | 2d | Fully autonomous AI Agents system capable of performing complex penetration t... |
 | [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 🤖 | 30,971 | 0d | A lightweight alternative to OpenClaw that runs in containers for security. C... |
 | [heroui-inc/heroui](https://github.com/heroui-inc/heroui) | 🌐 | 30,962 | 1d | 🚀 Beautiful, fast and modern React UI library. (Previously NextUI) |
 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 🔬 | 30,878 | 4d | Unrestricted Open-source alternative to AI video platforms — Free AI image & ... |
 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 🤖 | 30,420 | 0d | The batteries-included agent harness. |
 | [trycua/cua](https://github.com/trycua/cua) | 🤖 | 30,211 | 0d | Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benc... |
 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 🤖 | 30,144 | 0d | A lightweight, powerful framework for multi-agent workflows |
-| [kestra-io/kestra](https://github.com/kestra-io/kestra) | 🖥️ | 29,885 | 0d | Event Driven Orchestration & Scheduling Platform for Mission Critical Applica... |
-| [Infisical/infisical](https://github.com/Infisical/infisical) | 🔒 | 29,867 | 0d | Infisical is the open-source platform for securing secrets, certificates, acc... |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra) | 🖥️ | 29,886 | 0d | Event Driven Orchestration & Scheduling Platform for Mission Critical Applica... |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | 🔒 | 29,868 | 0d | Infisical is the open-source platform for securing secrets, certificates, acc... |
 | [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) | 🔒 | 29,859 | 0d | Proxmox VE Helper-Scripts (Community Edition) |
 | [deskflow/deskflow](https://github.com/deskflow/deskflow) | 🛠️ | 29,858 | 1d | Share a single keyboard and mouse between multiple computers. |
 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 🔬 | 29,747 | 0d | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
@@ -348,7 +348,7 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [nocobase/nocobase](https://github.com/nocobase/nocobase) | 🖥️ | 24,625 | 0d | NocoBase is an open-source AI + no-code platform for building business system... |
 | [navidrome/navidrome](https://github.com/navidrome/navidrome) | 📹 | 24,245 | 0d | 🎧 Your Personal Streaming Service |
 | [different-ai/openwork](https://github.com/different-ai/openwork) | 🌐 | 24,183 | 0d | The open-source alternative to Claude Cowork (powered by opencode) |
-| [every-app/open-seo](https://github.com/every-app/open-seo) | 🤖 | 24,142 | 5d | Open source alternative to Semrush and Ahrefs |
+| [every-app/open-seo](https://github.com/every-app/open-seo) | 🤖 | 24,143 | 5d | Open source alternative to Semrush and Ahrefs |
 | [knadh/listmonk](https://github.com/knadh/listmonk) | 💬 | 23,854 | 0d | High performance, self-hosted, newsletter and mailing list manager with a mod... |
 | [coleam00/Archon](https://github.com/coleam00/Archon) | 🤖 | 23,727 | 0d | The first open-source harness builder for AI coding. Make AI coding determini... |
 | [saleor/saleor](https://github.com/saleor/saleor) | 🌐 | 23,457 | 0d | Saleor Core: the high performance, composable, headless commerce API. |
@@ -416,7 +416,7 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) | 🤖 | 16,027 | 0d | G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Crealit... |
 | [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) | 🎮 | 15,691 | 0d | Dolphin is a GameCube / Wii emulator, allowing you to play games for these tw... |
 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 🤖 | 15,647 | 1d | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source a... |
-| [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 💬 | 15,624 | 0d | Free, Open Source, Self-Hosted WhatsApp API Gateway |
+| [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 💬 | 15,626 | 0d | Free, Open Source, Self-Hosted WhatsApp API Gateway |
 | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 🤖 | 15,607 | 0d | Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude... |
 | [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) | 🤖 | 15,579 | 0d | Convert documents to structured data effortlessly. Unstructured is open-sourc... |
 | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | 🤖 | 15,518 | 0d | The Open Context Layer for Data and AI , OpenMetadata is the open platform fo... |
@@ -430,7 +430,7 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [millionco/react-doctor](https://github.com/millionco/react-doctor) | 🤖 | 15,016 | 0d | Your agent writes bad React. This catches it |
 | [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) | 🤖 | 14,985 | 3d | Research and development (R&D) is crucial for the enhancement of industrial p... |
 | [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 🤖 | 14,972 | 26d | Collection of leaked system prompts |
-| [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) | 🎙️ | 14,940 | 6d | High-Quality Voice Cloning TTS for 600+ Languages |
+| [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) | 🎙️ | 14,941 | 6d | High-Quality Voice Cloning TTS for 600+ Languages |
 | [llmware-ai/llmware](https://github.com/llmware-ai/llmware) | 🤖 | 14,816 | 18d | Unified framework for building enterprise RAG pipelines with small, specializ... |
 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 🌐 | 14,696 | 0d | Stremio - Freedom to Stream |
 | [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) | 🤖 | 14,640 | 3d | A Claude skill that writes the accurate prompts for any AI tool. Zero tokens ... |
@@ -461,7 +461,7 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [PaperMC/Paper](https://github.com/PaperMC/Paper) | 🎮 | 12,746 | 0d | The most widely used, high performance Minecraft server that aims to fix game... |
 | [vercel-labs/portless](https://github.com/vercel-labs/portless) | 🤖 | 12,712 | 2d | Replace port numbers with stable, named local URLs. For humans and agents. |
 | [elie222/inbox-zero](https://github.com/elie222/inbox-zero) | 🤖 | 12,676 | 0d | The world's best AI personal assistant for email. Open source app to help you... |
-| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | 🤖 | 12,620 | 0d | Typescript/React Library for AI Chat 💬🚀 |
+| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | 🤖 | 12,621 | 0d | Typescript/React Library for AI Chat 💬🚀 |
 | [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) | 🤖 | 12,559 | 0d | Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible AP... |
 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | 📹 | 12,549 | 0d | Create Reddit Videos with just✨ one command ✨ |
 | [keephq/keep](https://github.com/keephq/keep) | 🖥️ | 12,420 | 21d | The open-source AIOps and alert management platform |
@@ -472,7 +472,7 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [LMCache/LMCache](https://github.com/LMCache/LMCache) | 🤖 | 12,116 | 0d | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
 | [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 🌐 | 12,116 | 0d | 📱 Display and control your Android device graphically with scrcpy. |
 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 🤖 | 11,944 | 3d | 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into y... |
-| [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) | 🤖 | 11,887 | 4d | A PyTorch-based Speech Toolkit |
+| [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) | 🤖 | 11,888 | 4d | A PyTorch-based Speech Toolkit |
 | [is-a-dev/register](https://github.com/is-a-dev/register) | 🌐 | 11,579 | 0d | Grab your own sweet-looking '.is-a.dev' subdomain. |
 | [getagentseal/codeburn](https://github.com/getagentseal/codeburn) | 🤖 | 11,523 | 2d | Free, local tool to track AI coding token usage and cost across 37 tools and ... |
 | [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio) | 🤖 | 11,417 | 0d | An open-source framework for detecting, redacting, masking, and anonymizing s... |
@@ -483,7 +483,7 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [huggingface/tokenizers](https://github.com/huggingface/tokenizers) | 🤖 | 11,185 | 0d | 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production |
 | [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) | 🎙️ | 11,180 | 0d | Open-source framework for conversational voice AI agents |
 | [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 🎙️ | 11,154 | 18d | Real-time, local speech-to-text with streaming ASR, speaker diarization, tran... |
-| [google-research/harness2](https://github.com/google-research/harness2) | 🌍 | 11,107 | 5d | — |
+| [google-research/harness2](https://github.com/google-research/harness2) | 🌍 | 11,112 | 5d | — |
 | [huggingface/chat-ui](https://github.com/huggingface/chat-ui) | 🤖 | 10,990 | 0d | The open source codebase powering HuggingChat |
 | [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp) | 📈 | 10,932 | 0d | Algorithmic trading and quantitative trading open source platform to develop ... |
 | [OpenPipe/ART](https://github.com/OpenPipe/ART) | 🤖 | 10,813 | 0d | Agent Reinforcement Trainer: train multi-step agents for real-world tasks usi... |
@@ -529,7 +529,7 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 📱 | 8,046 | 1d | A lightweight, cloud-native GIS platform for visualizing, exploring, and anal... |
 | [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 🖥️ | 8,019 | 0d | Woodpecker is a simple, yet powerful CI/CD engine with great extensibility. |
 | [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI) | 🤖 | 7,899 | 0d | The system of action for AI-native cybersecurity—where intent becomes governe... |
-| [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) | 📚 | 7,879 | 0d | An awesome list of awesome YouTubers that teach about technology. Tutorials a... |
+| [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) | 📚 | 7,880 | 0d | An awesome list of awesome YouTubers that teach about technology. Tutorials a... |
 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🤖 | 7,864 | 0d | Gentle-AI configures the AI coding agents you already use: Claude Code, Curso... |
 | [pyca/cryptography](https://github.com/pyca/cryptography) | 🔒 | 7,813 | 0d | cryptography is a package designed to expose cryptographic primitives and rec... |
 | [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) | 🤖 | 7,811 | 13d | Standard Open Arm 100 |
@@ -620,7 +620,7 @@ Repositorios con actividad en los últimos 30 días. Total: **612**
 | [suitenumerique/meet](https://github.com/suitenumerique/meet) | 🌐 | 2,438 | 0d | Open source video conferencing app powered by LiveKit. Built with Django and ... |
 | [elevenlabs/ui](https://github.com/elevenlabs/ui) | 🎙️ | 2,427 | 3d | ElevenLabs UI is a component library and custom registry built on top of shad... |
 | [pelican/panel](https://github.com/pelican/panel) | 🖥️ | 2,393 | 0d | Free, open source game server management panel built on Laravel and Docker. |
-| [facebookresearch/fairchem](https://github.com/facebookresearch/fairchem) | 🤖 | 2,297 | 1d | FAIR Chemistry's library of machine learning methods for chemistry |
+| [facebookresearch/fairchem](https://github.com/facebookresearch/fairchem) | 🤖 | 2,296 | 1d | FAIR Chemistry's library of machine learning methods for chemistry |
 | [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad) | 🎙️ | 2,289 | 10d | Voice Activity Detector (VAD) : low-latency, high-performance and lightweight |
 | [WebODM/OpenSplat](https://github.com/WebODM/OpenSplat) | 🔬 | 2,232 | 16d | Production-grade 3D gaussian splatting with CPU/GPU support for Windows, Mac ... |
 | [UseInterstellar/Interstellar](https://github.com/UseInterstellar/Interstellar) | 🌐 | 2,180 | 3d | Interstellar is a web proxy service offering blazing-fast speeds, a wide vari... |
@@ -779,17 +779,17 @@ _Modelos de lenguaje grandes, frameworks de agentes IA, herramientas RAG, interf
 | Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | TypeScript | 392,469 🔥 |
-| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | TypeScript | 334,927 🔥 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | 297,303 🔥 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Python | 255,228 🔥 |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | TypeScript | 334,941 🔥 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | 297,304 🔥 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Python | 255,229 🔥 |
 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pi... | — | 221,181 🔥 |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | TypeScript | 217,596 🔥 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | TypeScript | 217,598 🔥 |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-ho... | TypeScript | 208,030 🔥 |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥 | TypeScript | 193,054 🔥 |
 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 191,101 🔥 |
 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so ... | Python | 187,658 🔥 |
 | [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Python | 182,198 🔥 |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-... | HTML | 173,563 🔥 |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-... | HTML | 173,564 🔥 |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | JavaScript | 167,917 🔥 |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, a... | Python | 167,857 🔥 |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to ... | Shell | 161,652 🔥 |
@@ -806,7 +806,7 @@ _Modelos de lenguaje grandes, frameworks de agentes IA, herramientas RAG, interf
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. | Python | 118,526 🔥 |
 | [earendil-works/pi](https://github.com/earendil-works/pi) | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | TypeScript | 116,398 🔥 |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talkin... | Go | 113,649 🔥 |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 112,082 🔥 |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 112,083 🔥 |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | TypeScript | 107,457 🔥 |
 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | Jupyter Notebook | 106,875 🔥 |
 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | Tensors and Dynamic neural networks in Python with strong GPU acceleration | Python | 104,915 🔥 |
@@ -823,20 +823,20 @@ _Modelos de lenguaje grandes, frameworks de agentes IA, herramientas RAG, interf
 | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. | — | 84,364 🔥 |
 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies | Rust | 83,975 🔥 |
 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and report... | TypeScript | 83,333 🔥 |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design. | Rust | 83,115 🔥 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design. | Rust | 83,116 🔥 |
 | [netdata/netdata](https://github.com/netdata/netdata) | The fastest path to AI-powered full stack observability, even for lean teams. | Go | 81,033 🔥 |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gem... | TypeScript | 78,462 🔥 |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gem... | TypeScript | 78,463 🔥 |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, F... | Python | 78,270 🔥 |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conv... | TypeScript | 77,058 🔥 |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conv... | TypeScript | 77,060 🔥 |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-... | Python | 76,147 🔥 |
 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | Python | 75,592 🔥 |
 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | Spec-driven development (SDD) for AI coding assistants. | TypeScript | 72,418 🔥 |
-| [usestrix/strix](https://github.com/usestrix/strix) | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. | Python | 69,992 🔥 |
+| [usestrix/strix](https://github.com/usestrix/strix) | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. | Python | 69,993 🔥 |
 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT G... | Python | 69,906 🔥 |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built f... | Python | 67,460 🔥 |
 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience | JavaScript | 67,323 🔥 |
 | [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | The official gpt4free repository \| various collection of powerful language models \| opus 4.6 gpt 5.3 kimi 2.5 deeps... | Python | 66,900 🔥 |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a ... | Python | 64,759 🔥 |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a ... | Python | 64,760 🔥 |
 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by... | JavaScript | 64,269 🔥 |
 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🧠 Train a 64M-parameter LLM from scratch in just 2h! | Python | 63,995 🔥 |
 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-... | Python | 63,844 🔥 |
@@ -848,7 +848,7 @@ _Modelos de lenguaje grandes, frameworks de agentes IA, herramientas RAG, interf
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. | JavaScript | 55,526 🔥 |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | Build AI Agents, Visually | TypeScript | 55,512 🔥 |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | Rust | 55,441 🔥 |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | TypeScript | 53,855 🔥 |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | TypeScript | 53,857 🔥 |
 | [multica-ai/multica](https://github.com/multica-ai/multica) | Make humans and AI agents work as one team — open-source and self-hostable. | Go | 53,221 🔥 |
 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills R... | — | 53,217 🔥 |
 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Academic Research Skills for Claude Code: research → write → review → revise → finalize | Python | 52,967 🔥 |
@@ -881,7 +881,7 @@ _Modelos de lenguaje grandes, frameworks de agentes IA, herramientas RAG, interf
 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Fully automatic censorship removal for language models | Python | 35,889 🔥 |
 | [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. | JavaScript | 34,691 🔥 |
 | [google-research/timesfm](https://github.com/google-research/timesfm) | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for ... | Python | 34,626 🔥 |
-| [storytold/artcraft](https://github.com/storytold/artcraft) | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers | Rust | 33,584 🔥 |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers | Rust | 33,586 🔥 |
 | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | SOTA Open Source TTS | Python | 33,293 🔥 |
 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | Python | 32,591 🔥 |
 | [getzep/graphiti](https://github.com/getzep/graphiti) | Build Real-Time Knowledge Graphs for AI Agents | Python | 32,044 🔥 |
@@ -889,7 +889,7 @@ _Modelos de lenguaje grandes, frameworks de agentes IA, herramientas RAG, interf
 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamic... | Rust | 31,689 🔥 |
 | [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) | Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation. | Python | 31,672 🔥 |
 | [stanford-oval/storm](https://github.com/stanford-oval/storm) | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. | Python | 31,664 🔥 |
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Fully autonomous AI Agents system capable of performing complex penetration testing tasks | Go | 31,306 🔥 |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Fully autonomous AI Agents system capable of performing complex penetration testing tasks | Go | 31,307 🔥 |
 | [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Di... | TypeScript | 30,971 🔥 |
 | [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) | A list of AI autonomous agents | — | 30,517 🔥 |
 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | The batteries-included agent harness. | Python | 30,420 🔥 |
@@ -913,7 +913,7 @@ _Modelos de lenguaje grandes, frameworks de agentes IA, herramientas RAG, interf
 | [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | An open-source RAG-based tool for chatting with your documents. | Python | 25,816 🔥 |
 | [letta-ai/letta](https://github.com/letta-ai/letta) | Platform for stateful agents: AI with advanced memory that can learn and self-improve over time. | — | 25,193 🔥 |
 | [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | DeepSeek Coder: Let the Code Write Itself | Python | 24,297 🔥 |
-| [every-app/open-seo](https://github.com/every-app/open-seo) | Open source alternative to Semrush and Ahrefs | TypeScript | 24,142 🔥 |
+| [every-app/open-seo](https://github.com/every-app/open-seo) | Open source alternative to Semrush and Ahrefs | TypeScript | 24,143 🔥 |
 | [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) | Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs ... | Python | 23,888 🔥 |
 | [vanna-ai/vanna](https://github.com/vanna-ai/vanna) | 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄. | Python | 23,814 🔥 |
 | [coleam00/Archon](https://github.com/coleam00/Archon) | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. | TypeScript | 23,727 🔥 |
@@ -972,13 +972,13 @@ _Modelos de lenguaje grandes, frameworks de agentes IA, herramientas RAG, interf
 | [vercel-labs/portless](https://github.com/vercel-labs/portless) | Replace port numbers with stable, named local URLs. For humans and agents. | TypeScript | 12,712 🔥 |
 | [elie222/inbox-zero](https://github.com/elie222/inbox-zero) | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. | TypeScript | 12,676 🔥 |
 | [sapientinc/HRM](https://github.com/sapientinc/HRM) | Hierarchical Reasoning Model Official Release | Python | 12,659 🔥 |
-| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | Typescript/React Library for AI Chat 💬🚀 | TypeScript | 12,620 🔥 |
+| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | Typescript/React Library for AI Chat 💬🚀 | TypeScript | 12,621 🔥 |
 | [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) | Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud. | Python | 12,559 🔥 |
 | [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | A straightforward method for training your LLM, from downloading data to generating text. | Python | 12,339 🔥 |
 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | Build your own AI SRE agents. The open source toolkit for the AI era. | Python | 12,223 🔥 |
 | [LMCache/LMCache](https://github.com/LMCache/LMCache) | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer | Python | 12,116 🔥 |
 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. | Python | 11,944 🔥 |
-| [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) | A PyTorch-based Speech Toolkit | Python | 11,887 🔥 |
+| [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) | A PyTorch-based Speech Toolkit | Python | 11,888 🔥 |
 | [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) | Pioneering Automated GUI Interaction with Native Agents | Python | 11,622 🔥 |
 | [getagentseal/codeburn](https://github.com/getagentseal/codeburn) | Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemi... | TypeScript | 11,523 🔥 |
 | [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio) | An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images,... | Python | 11,417 🔥 |
@@ -1022,7 +1022,7 @@ _Modelos de lenguaje grandes, frameworks de agentes IA, herramientas RAG, interf
 | [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) | CADAM is the open source text-to-CAD web application | TypeScript | 5,298 |
 | [opencx-labs/OpenChat](https://github.com/opencx-labs/OpenChat) | LLMs custom-chatbots console ⚡ | JavaScript | 5,223 |
 | [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) | [NeurIPS 2025] SpatialLM: Training Large Language Models for Structured Indoor Modeling | Python | 5,094 |
-| [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) | AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeSc... | TypeScript | 4,920 |
+| [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) | AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeSc... | TypeScript | 4,921 |
 | [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) | ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent thr... | Python | 4,917 |
 | [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | Agenta is a workspace where you and your team build agents and automations. | TypeScript | 4,844 |
 | [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) | 🤖 WebMCP | Bikeshed | 4,680 |
@@ -1049,7 +1049,7 @@ _Modelos de lenguaje grandes, frameworks de agentes IA, herramientas RAG, interf
 | [OpenMind/OM1](https://github.com/OpenMind/OM1) | Modular AI HAL (Hardware Abstraction Layer) for Robots | Go | 2,953 |
 | [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) | MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams vi... | TypeScript | 2,555 |
 | [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) | 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI | — | 2,419 |
-| [facebookresearch/fairchem](https://github.com/facebookresearch/fairchem) | FAIR Chemistry's library of machine learning methods for chemistry | Python | 2,297 |
+| [facebookresearch/fairchem](https://github.com/facebookresearch/fairchem) | FAIR Chemistry's library of machine learning methods for chemistry | Python | 2,296 |
 | [bigcode-project/starcoder2](https://github.com/bigcode-project/starcoder2) | Home of StarCoder2! | Python | 2,093 |
 | [baidu/Senta](https://github.com/baidu/Senta) | Baidu's open-source Sentiment Analysis System. | Python | 2,017 |
 | [flexflow/flexflow-train](https://github.com/flexflow/flexflow-train) | Automatically Discovering Fast Parallelization Strategies for Distributed Deep Neural Network Training | C++ | 1,903 |
@@ -1164,7 +1164,7 @@ _Síntesis de voz (TTS), reconocimiento de voz (ASR/STT), clonación de voz, mod
 
 | Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dict... | Python | 77,216 🔥 |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dict... | Python | 77,218 🔥 |
 | [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) | Python | 63,210 🔥 |
 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source AI voice studio. Clone, dictate, create. | Python | 58,014 🔥 |
 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | Python | 54,881 🔥 |
@@ -1181,7 +1181,7 @@ _Síntesis de voz (TTS), reconocimiento de voz (ASR/STT), clonación de voz, mod
 | [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) | A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal,... | Python | 18,605 🔥 |
 | [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Ka... | C++ | 15,381 🔥 |
 | [alphacep/vosk-api](https://github.com/alphacep/vosk-api) | Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node | Jupyter Notebook | 15,186 🔥 |
-| [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) | High-Quality Voice Cloning TTS for 600+ Languages | Python | 14,940 🔥 |
+| [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) | High-Quality Voice Cloning TTS for 600+ Languages | Python | 14,941 🔥 |
 | [SesameAILabs/csm](https://github.com/SesameAILabs/csm) | A Conversational Speech Generation Model | Python | 14,727 🔥 |
 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, ASR, structured extraction and embeddings o... | Python | 14,110 🔥 |
 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI that sees your screen, listens to your conversations and tells you what to do | Python | 13,769 🔥 |
@@ -1378,8 +1378,8 @@ _Herramientas para desarrolladores: frameworks web, extensiones IDE, CLI tools, 
 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | Python | 103,256 🔥 |
 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | Warp is an agentic development environment, born out of the terminal. | Rust | 65,545 🔥 |
 | [localstack/localstack](https://github.com/localstack/localstack) | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline | Python | 65,143 🔥 |
-| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as p... | PowerShell | 59,971 🔥 |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ | Python | 55,121 🔥 |
+| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as p... | PowerShell | 59,972 🔥 |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ | Python | 55,123 🔥 |
 | [files-community/Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. | C# | 46,091 🔥 |
 | [harness/harness](https://github.com/harness/harness) | Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Devel... | Go | 38,602 🔥 |
 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Automate the process of making money online. | Python | 32,160 🔥 |
@@ -1408,10 +1408,10 @@ _Plataformas de auto-hospedaje, Docker, Kubernetes, DevOps, backends as a servic
 
 | Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | Rust | 126,339 🔥 |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | Rust | 126,340 🔥 |
 | [immich-app/immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | TypeScript | 116,665 🔥 |
 | [supabase/supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI... | TypeScript | 111,771 🔥 |
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | TypeScript | 94,549 🔥 |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | TypeScript | 94,550 🔥 |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool | JavaScript | 92,643 🔥 |
 | [usememos/memos](https://github.com/usememos/memos) | Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeli... | Go | 63,922 🔥 |
 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, ... | PHP | 63,215 🔥 |
@@ -1430,7 +1430,7 @@ _Plataformas de auto-hospedaje, Docker, Kubernetes, DevOps, backends as a servic
 | [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. | Go | 37,207 🔥 |
 | [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to hand... | Go | 35,602 🔥 |
 | [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for trac... | Python | 35,128 🔥 |
-| [kestra-io/kestra](https://github.com/kestra-io/kestra) | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications | Java | 29,885 🔥 |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra) | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications | Java | 29,886 🔥 |
 | [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 🕸️ Web apps in pure Python 🐍 | Python | 28,960 🔥 |
 | [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your ... | TypeScript | 26,956 🔥 |
 | [henrygd/beszel](https://github.com/henrygd/beszel) | Lightweight server monitoring with historical data, docker stats, and alerts. | Go | 26,345 🔥 |
@@ -1538,7 +1538,7 @@ _Frameworks web, librerías UI, extensiones de navegador, scrapers web y aplicac
 | [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-sourc... | TypeScript | 44,543 🔥 |
 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 🌼 🌼 🌼 🌼 🌼 The most popular, free and open-source Tailwind CSS component library | JavaScript | 42,625 🔥 |
 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and o... | TypeScript | 40,587 🔥 |
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | An Open Source implementation of Notebook LM with more flexibility and features | TypeScript | 40,383 🔥 |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | An Open Source implementation of Notebook LM with more flexibility and features | TypeScript | 40,384 🔥 |
 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alterna... | TypeScript | 39,931 🔥 |
 | [umami-software/umami](https://github.com/umami-software/umami) | Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no... | TypeScript | 39,461 🔥 |
 | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack app framework for web, desktop, and mobile. | Rust | 39,440 🔥 |
@@ -1625,8 +1625,8 @@ _Descargadores de video, editores, servidores de media y herramientas de procesa
 
 | Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. | Python | 133,117 🔥 |
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative | TypeScript | 95,369 🔥 |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. | Python | 133,118 🔥 |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative | TypeScript | 95,370 🔥 |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and... | Python | 69,876 🔥 |
 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | Write HTML. Render video. Built for agents. | TypeScript | 67,508 🔥 |
 | [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine | Python | 29,163 🔥 |
@@ -1751,7 +1751,7 @@ _Herramientas de seguridad ofensiva y defensiva: pentesting, OSINT, CTF, anális
 
 | Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first developmen... | JavaScript | 283,927 🔥 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first developmen... | JavaScript | 283,928 🔥 |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | Python | 94,494 🔥 |
 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | Java | 91,479 🔥 |
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tra... | TypeScript | 88,837 🔥 |
@@ -1761,7 +1761,7 @@ _Herramientas de seguridad ofensiva y defensiva: pentesting, OSINT, CTF, anális
 | [soxoj/maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from 6K websites | Python | 39,224 🔥 |
 | [hashicorp/vault](https://github.com/hashicorp/vault) | A tool for secrets management, encryption as a service, and privileged access management | Go | 36,402 🔥 |
 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, ... | Python | 34,710 🔥 |
-| [Infisical/infisical](https://github.com/Infisical/infisical) | Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents. | TypeScript | 29,867 🔥 |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents. | TypeScript | 29,868 🔥 |
 | [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) | Proxmox VE Helper-Scripts (Community Edition) | Shell | 29,859 🔥 |
 | [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | Find, verify, and analyze leaked credentials | Go | 28,592 🔥 |
 | [hashcat/hashcat](https://github.com/hashcat/hashcat) | World's fastest and most advanced password recovery utility | C | 27,023 🔥 |
@@ -1844,7 +1844,7 @@ _Bots de Telegram y Discord, clientes de email, frameworks de chatbot y sistemas
 |------|-------------|----------|---------|
 | [mattermost/mattermost](https://github.com/mattermost/mattermost) | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. | TypeScript | 39,381 🔥 |
 | [knadh/listmonk](https://github.com/knadh/listmonk) | High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. | Go | 23,854 🔥 |
-| [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | Free, Open Source, Self-Hosted WhatsApp API Gateway | TypeScript | 15,624 🔥 |
+| [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | Free, Open Source, Self-Hosted WhatsApp API Gateway | TypeScript | 15,626 🔥 |
 | [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | Desktop Companion for Hermes Agent | TypeScript | 14,428 🔥 |
 | [wppconnect-team/wppconnect-server](https://github.com/wppconnect-team/wppconnect-server) | Wppconnect Server is a ready-to-use API, just download, install, and start using, simple as that. | TypeScript | 1,060 |
 | [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch) | Connect any AI agent to your team in Slack, Teams & Discord. Open-source and self-hostable. | Python | 797 |
@@ -1889,14 +1889,14 @@ _Listas awesome, guías de estudio, roadmaps, recursos de entrevistas y coleccio
 
 | Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | Markdown | 554,577 🔥 |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a ch... | — | 521,401 🔥 |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | Markdown | 554,578 🔥 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a ch... | — | 521,403 🔥 |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 490,443 🔥 |
 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | TypeScript | 369,881 🔥 |
 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | — | 363,078 🔥 |
-| [vinta/awesome-python](https://github.com/vinta/awesome-python) | The definitive list that answers "I want to do X in Python, which tool should I use?" | Python | 328,697 🔥 |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | — | 328,322 🔥 |
-| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | — | 251,409 🔥 |
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | The definitive list that answers "I want to do X in Python, which tool should I use?" | Python | 328,699 🔥 |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | — | 328,323 🔥 |
+| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | — | 251,411 🔥 |
 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python | Python | 225,402 🔥 |
 | [ossu/computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! | HTML | 210,141 🔥 |
 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. | Python | 183,105 🔥 |
@@ -1946,8 +1946,8 @@ _Listas awesome, guías de estudio, roadmaps, recursos de entrevistas y coleccio
 | [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) | 🎬 A curated list of movies every hacker & cyberpunk must watch. | Shell | 11,955 🔥 |
 | [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) | List of Permanent Free LLM API (API Keys) | JavaScript | 10,695 🔥 |
 | [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) | :beers: awesome cheatsheet | Python | 8,615 |
-| [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) | An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, ... | Markdown | 7,879 |
-| [linsa-io/books](https://github.com/linsa-io/books) | Awesome Books | — | 7,714 |
+| [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) | An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, ... | Markdown | 7,880 |
+| [linsa-io/books](https://github.com/linsa-io/books) | Awesome Books | — | 7,715 |
 | [pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) | Reading list for research topics in multimodal machine learning | — | 6,947 |
 | [facundoolano/software-papers](https://github.com/facundoolano/software-papers) | 📚 A curated list of papers for Software Engineers | Python | 6,607 |
 | [midudev/libros-programacion-gratis](https://github.com/midudev/libros-programacion-gratis) | 📚 Lista de libros sobre programación en Español y gratis | TypeScript | 6,108 |
@@ -2020,7 +2020,7 @@ _Repositorios misceláneos que no encajan claramente en otras categorías._
 | Repo | Descripción | Lenguaje | ⭐ Estrellas |
 |------|-------------|----------|---------|
 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. | Assembly | 75,484 🔥 |
-| [google-research/harness2](https://github.com/google-research/harness2) | — | Python | 11,107 🔥 |
+| [google-research/harness2](https://github.com/google-research/harness2) | — | Python | 11,112 🔥 |
 | [EpicGames/lore](https://github.com/EpicGames/lore) | Lore is a next-generation, open source version control system | Rust | 8,954 |
 | [corollari/linusrants](https://github.com/corollari/linusrants) | Dataset of Linus Torvalds' rants classified by negativity using sentiment analysis | Python | 1,894 |
 | [getprobo/probo](https://github.com/getprobo/probo) | Open source solutions for SOC2, GDPR, and ISO27001 | Go | 1,466 |
