@@ -8,6 +8,7 @@ on:
     paths:
       - scripts/generar.py
       - data/categorias.json
+      - data/asignaciones.json
       - .github/workflows/actualizar.yml
 
 permissions:
